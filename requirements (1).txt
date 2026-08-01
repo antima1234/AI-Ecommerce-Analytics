@@ -1,0 +1,34 @@
+# ================================================================================
+# requirements.txt
+# AI-Powered E-commerce Customer & Sales Analytics Platform
+#
+# Install with:
+#   pip install -r requirements.txt
+# ================================================================================
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization (used by 02_eda.py, 04_customer_segmentation.py,
+# 05_churn_prediction.py, 06_sales_prediction.py)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine learning (used by 04, 05, 06 - clustering, classification, regression)
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Excel workbook generation (dashboard, pivots, charts, conditional formatting)
+openpyxl>=3.1.0
+
+# Business Insights PDF report generation
+reportlab>=4.0.0
+
+# ------------------------------------------------------------------------------
+# Optional: enables the XGBoost models in 05_churn_prediction.py and
+# 06_sales_prediction.py. Both scripts detect its absence automatically and
+# fall back to Logistic Regression / Random Forest only, so this is not
+# required to run the project - install it if you want the extra model.
+# ------------------------------------------------------------------------------
+# xgboost>=2.0.0

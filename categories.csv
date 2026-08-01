@@ -1,0 +1,36 @@
+Category_ID,Category,Sub_Category
+CAT0001,Electronics,Mobile Phones
+CAT0002,Electronics,Laptops
+CAT0003,Electronics,Headphones
+CAT0004,Electronics,Cameras
+CAT0005,Electronics,Smart Watches
+CAT0006,Electronics,Televisions
+CAT0007,Fashion,Men's Clothing
+CAT0008,Fashion,Women's Clothing
+CAT0009,Fashion,Footwear
+CAT0010,Fashion,Watches
+CAT0011,Fashion,Bags
+CAT0012,Home & Kitchen,Furniture
+CAT0013,Home & Kitchen,Cookware
+CAT0014,Home & Kitchen,Home Decor
+CAT0015,Home & Kitchen,Storage
+CAT0016,Home & Kitchen,Lighting
+CAT0017,Beauty & Personal Care,Skincare
+CAT0018,Beauty & Personal Care,Haircare
+CAT0019,Beauty & Personal Care,Makeup
+CAT0020,Beauty & Personal Care,Fragrances
+CAT0021,Sports & Outdoors,Fitness Equipment
+CAT0022,Sports & Outdoors,Cycling
+CAT0023,Sports & Outdoors,Camping Gear
+CAT0024,Sports & Outdoors,Sportswear
+CAT0025,Books & Stationery,Fiction
+CAT0026,Books & Stationery,Non-Fiction
+CAT0027,Books & Stationery,Office Supplies
+CAT0028,Books & Stationery,Notebooks
+CAT0029,Toys & Baby Products,Toys
+CAT0030,Toys & Baby Products,Baby Care
+CAT0031,Toys & Baby Products,Educational Games
+CAT0032,Grocery,Snacks
+CAT0033,Grocery,Beverages
+CAT0034,Grocery,Packaged Foods
+CAT0035,Grocery,Organic Foods

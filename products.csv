@@ -1,0 +1,601 @@
+Product_ID,Product_Name,Category_ID,Category,Sub_Category,Brand,Unit_Cost,Unit_Price,Stock_Quantity,Reorder_Level,Product_Rating,Launch_Date
+PROD00001,AdiSport Watches Max 125,CAT0010,Fashion,Watches,AdiSport,114.48,187.83,130,72,4.9,2023-02-24
+PROD00002,LuxeBeauty Makeup Plus 328,CAT0019,Beauty & Personal Care,Makeup,LuxeBeauty,38.96,58.83,1499,34,3.6,2020-07-16
+PROD00003,NatureCare Skincare Max 792,CAT0017,Beauty & Personal Care,Skincare,NatureCare,52.3,84.52,776,109,2.7,2022-09-25
+PROD00004,AdiSport Men's Neo 189,CAT0007,Fashion,Men's Clothing,AdiSport,84.53,129.02,565,125,3.9,2023-02-09
+PROD00005,StudyPro Fiction Pro 130,CAT0025,Books & Stationery,Fiction,StudyPro,37.11,47.48,295,101,3.8,2021-03-02
+PROD00006,GlowUp Fragrances Plus 338,CAT0020,Beauty & Personal Care,Fragrances,GlowUp,12.75,17.58,1495,82,4.5,2020-01-27
+PROD00007,CycloTech Fitness Edge 127,CAT0021,Sports & Outdoors,Fitness Equipment,CycloTech,37.81,48.82,406,81,3.3,2024-11-16
+PROD00008,LGtech Laptops Neo 529,CAT0002,Electronics,Laptops,LGtech,493.47,698.97,794,34,2.8,2023-01-24
+PROD00009,BabyCare+ Toys Air 703,CAT0029,Toys & Baby Products,Toys,BabyCare+,56.38,77.92,524,90,3.2,2023-12-25
+PROD00010,LuxeBeauty Fragrances Pro 877,CAT0020,Beauty & Personal Care,Fragrances,LuxeBeauty,52.93,93.94,1371,148,3.1,2021-08-30
+PROD00011,Applyn Laptops Prime 448,CAT0002,Electronics,Laptops,Applyn,695.55,1015.56,1495,132,2.7,2020-07-17
+PROD00012,Prestige+ Cookware Lite 320,CAT0013,Home & Kitchen,Cookware,Prestige+,218.0,277.18,1248,148,3.1,2022-02-27
+PROD00013,JBLPro Smart Max 194,CAT0005,Electronics,Smart Watches,JBLPro,448.2,697.26,197,116,2.9,2019-07-06
+PROD00014,Levine Women's Max 467,CAT0008,Fashion,Women's Clothing,Levine,12.57,17.14,928,147,3.8,2020-10-02
+PROD00015,JBLPro Cameras Edge 370,CAT0004,Electronics,Cameras,JBLPro,556.77,882.93,880,21,5.0,2025-04-20
+PROD00016,FashionNova2 Watches Pro 847,CAT0010,Fashion,Watches,FashionNova2,108.85,191.24,627,94,4.8,2022-12-14
+PROD00017,StudyPro Notebooks Neo 227,CAT0028,Books & Stationery,Notebooks,StudyPro,3.19,5.42,956,87,3.1,2022-07-24
+PROD00018,PureSkin Makeup Max 665,CAT0019,Beauty & Personal Care,Makeup,PureSkin,44.65,63.08,37,128,3.7,2023-12-05
+PROD00019,Zarello Women's Edge 982,CAT0008,Fashion,Women's Clothing,Zarello,97.02,122.81,1072,36,5.0,2025-01-14
+PROD00020,DailyNeeds Packaged Edge 296,CAT0034,Grocery,Packaged Foods,DailyNeeds,24.16,43.6,190,86,2.9,2023-12-22
+PROD00021,Samong Cameras Pro 777,CAT0004,Electronics,Cameras,Samong,346.02,498.94,784,123,4.2,2019-09-03
+PROD00022,LGtech Laptops Ultra 181,CAT0002,Electronics,Laptops,LGtech,319.62,565.37,320,27,4.3,2020-02-04
+PROD00023,TrekGear Camping Max 489,CAT0023,Sports & Outdoors,Camping Gear,TrekGear,115.23,217.58,149,77,4.7,2025-06-10
+PROD00024,DailyNeeds Snacks Air 750,CAT0032,Grocery,Snacks,DailyNeeds,16.33,21.32,876,135,3.5,2019-09-26
+PROD00025,JBLPro Mobile Lite 479,CAT0001,Electronics,Mobile Phones,JBLPro,777.15,1012.29,1150,148,2.9,2020-05-27
+PROD00026,Zarello Men's Plus 786,CAT0007,Fashion,Men's Clothing,Zarello,34.86,53.45,860,95,3.9,2021-09-23
+PROD00027,DailyNeeds Beverages Max 723,CAT0033,Grocery,Beverages,DailyNeeds,2.39,4.17,340,58,3.4,2023-10-24
+PROD00028,KitchenPro Furniture Neo 846,CAT0012,Home & Kitchen,Furniture,KitchenPro,285.51,456.99,515,35,2.7,2023-11-18
+PROD00029,BabyCare+ Baby Lite 573,CAT0030,Toys & Baby Products,Baby Care,BabyCare+,15.92,28.39,1291,86,4.6,2022-04-06
+PROD00030,IdealHome Storage Ultra 755,CAT0015,Home & Kitchen,Storage,IdealHome,34.77,50.67,969,109,3.4,2019-04-25
+PROD00031,LivWell Lighting Plus 801,CAT0016,Home & Kitchen,Lighting,LivWell,213.57,291.59,456,118,3.5,2021-09-04
+PROD00032,JBLPro Mobile Pro 334,CAT0001,Electronics,Mobile Phones,JBLPro,237.51,355.2,61,103,4.6,2022-09-27
+PROD00033,FitMax Cycling Classic 510,CAT0022,Sports & Outdoors,Cycling,FitMax,213.31,333.54,1390,136,2.7,2020-01-31
+PROD00034,Prestige+ Home Max 316,CAT0014,Home & Kitchen,Home Decor,Prestige+,229.43,368.74,1156,94,2.8,2021-08-11
+PROD00035,JBLPro Headphones Plus 771,CAT0003,Electronics,Headphones,JBLPro,513.66,670.4,338,128,3.4,2020-05-14
+PROD00036,PureSkin Makeup Prime 758,CAT0019,Beauty & Personal Care,Makeup,PureSkin,24.26,34.25,38,145,3.7,2020-10-14
+PROD00037,StudyPro Notebooks Lite 371,CAT0028,Books & Stationery,Notebooks,StudyPro,30.54,46.12,1392,75,3.8,2022-02-14
+PROD00038,Applyn Laptops Plus 862,CAT0002,Electronics,Laptops,Applyn,772.42,1243.6,1464,66,4.1,2023-03-30
+PROD00039,Boatix Mobile Edge 538,CAT0001,Electronics,Mobile Phones,Boatix,270.87,408.05,1431,136,3.2,2022-10-03
+PROD00040,OrganicHarvest Snacks Classic 324,CAT0032,Grocery,Snacks,OrganicHarvest,2.74,3.92,460,65,2.7,2020-01-25
+PROD00041,Applyn Laptops Neo 605,CAT0002,Electronics,Laptops,Applyn,762.35,1139.49,1088,30,4.0,2019-03-04
+PROD00042,UrbanEdge Men's Pro 981,CAT0007,Fashion,Men's Clothing,UrbanEdge,100.87,171.44,708,114,4.4,2022-12-31
+PROD00043,FunKidz Toys Lite 742,CAT0029,Toys & Baby Products,Toys,FunKidz,26.37,36.51,448,132,4.4,2024-09-12
+PROD00044,KitchenPro Lighting Prime 710,CAT0016,Home & Kitchen,Lighting,KitchenPro,206.4,333.26,762,76,4.0,2022-06-06
+PROD00045,FitMax Fitness Prime 490,CAT0021,Sports & Outdoors,Fitness Equipment,FitMax,13.49,20.7,446,71,3.9,2022-09-20
+PROD00046,Puma+ Watches Air 641,CAT0010,Fashion,Watches,Puma+,77.67,120.27,545,25,3.7,2019-07-24
+PROD00047,Prestige+ Lighting Neo 981,CAT0016,Home & Kitchen,Lighting,Prestige+,112.35,153.59,899,44,4.7,2020-10-28
+PROD00048,HomeCraft Storage Max 798,CAT0015,Home & Kitchen,Storage,HomeCraft,69.8,92.72,232,31,3.0,2024-05-22
+PROD00049,DailyNeeds Beverages Classic 214,CAT0033,Grocery,Beverages,DailyNeeds,23.18,29.9,1049,55,4.5,2020-09-16
+PROD00050,Zarello Women's Prime 261,CAT0008,Fashion,Women's Clothing,Zarello,118.46,152.88,698,75,2.8,2021-10-23
+PROD00051,StudyPro Office Pro 839,CAT0027,Books & Stationery,Office Supplies,StudyPro,22.71,33.96,713,58,3.3,2022-06-08
+PROD00052,Boatix Smart Neo 880,CAT0005,Electronics,Smart Watches,Boatix,116.9,190.52,1493,53,3.9,2023-03-22
+PROD00053,NatureCare Makeup Neo 208,CAT0019,Beauty & Personal Care,Makeup,NatureCare,32.4,48.19,623,23,4.6,2025-07-25
+PROD00054,Prestige+ Cookware Neo 723,CAT0013,Home & Kitchen,Cookware,Prestige+,37.87,71.2,3,98,4.5,2023-06-18
+PROD00055,LGtech Headphones Lite 482,CAT0003,Electronics,Headphones,LGtech,178.17,260.2,723,39,3.1,2020-07-12
+PROD00056,KitchenPro Home Neo 897,CAT0014,Home & Kitchen,Home Decor,KitchenPro,39.88,61.63,260,149,3.3,2023-06-08
+PROD00057,PagePress Office Edge 431,CAT0027,Books & Stationery,Office Supplies,PagePress,18.24,32.65,235,97,4.8,2022-03-06
+PROD00058,OrganicHarvest Packaged Pro 214,CAT0034,Grocery,Packaged Foods,OrganicHarvest,19.26,34.08,1314,24,3.1,2019-03-19
+PROD00059,LuxeBeauty Makeup Ultra 345,CAT0019,Beauty & Personal Care,Makeup,LuxeBeauty,26.58,38.43,1046,82,3.8,2025-01-01
+PROD00060,Sonyx Laptops Plus 999,CAT0002,Electronics,Laptops,Sonyx,724.68,1063.6,1471,34,4.7,2022-08-05
+PROD00061,FarmFresh Packaged Max 849,CAT0034,Grocery,Packaged Foods,FarmFresh,2.77,4.49,516,142,4.4,2022-02-15
+PROD00062,IdealHome Furniture Max 878,CAT0012,Home & Kitchen,Furniture,IdealHome,256.24,440.6,129,114,4.0,2024-05-09
+PROD00063,BabyCare+ Baby Lite 775,CAT0030,Toys & Baby Products,Baby Care,BabyCare+,39.07,72.89,395,123,3.8,2021-09-11
+PROD00064,OutdoorX Camping Neo 269,CAT0023,Sports & Outdoors,Camping Gear,OutdoorX,230.5,403.68,1401,70,4.3,2022-12-01
+PROD00065,ProSport Sportswear Neo 993,CAT0024,Sports & Outdoors,Sportswear,ProSport,211.0,347.12,1454,72,3.3,2025-06-18
+PROD00066,OrganicHarvest Organic Plus 652,CAT0035,Grocery,Organic Foods,OrganicHarvest,18.96,29.27,938,127,4.8,2022-04-20
+PROD00067,InkWell Office Ultra 508,CAT0027,Books & Stationery,Office Supplies,InkWell,24.48,41.16,966,100,4.9,2020-11-19
+PROD00068,OfficeMate Notebooks Air 629,CAT0028,Books & Stationery,Notebooks,OfficeMate,14.47,25.61,1341,51,3.7,2020-03-04
+PROD00069,StudyPro Office Max 353,CAT0027,Books & Stationery,Office Supplies,StudyPro,22.52,35.43,946,82,2.8,2019-02-24
+PROD00070,NatureCare Haircare Max 446,CAT0018,Beauty & Personal Care,Haircare,NatureCare,40.42,67.84,832,76,3.1,2024-06-30
+PROD00071,FitMax Cycling Edge 667,CAT0022,Sports & Outdoors,Cycling,FitMax,146.67,260.11,1111,97,4.0,2020-03-27
+PROD00072,TrekGear Fitness Edge 325,CAT0021,Sports & Outdoors,Fitness Equipment,TrekGear,30.86,41.04,914,55,4.1,2019-03-23
+PROD00073,PagePress Office Max 824,CAT0027,Books & Stationery,Office Supplies,PagePress,24.84,37.66,904,72,3.2,2023-03-04
+PROD00074,FitMax Camping Plus 169,CAT0023,Sports & Outdoors,Camping Gear,FitMax,246.49,390.22,520,59,4.2,2022-07-28
+PROD00075,PagePress Fiction Classic 172,CAT0025,Books & Stationery,Fiction,PagePress,9.35,17.24,41,119,3.7,2024-09-12
+PROD00076,LivWell Cookware Plus 385,CAT0013,Home & Kitchen,Cookware,LivWell,251.48,412.0,267,72,2.9,2023-09-05
+PROD00077,PureSkin Skincare Plus 652,CAT0017,Beauty & Personal Care,Skincare,PureSkin,28.21,49.4,28,30,3.2,2022-02-10
+PROD00078,InkWell Non-Fiction Edge 690,CAT0026,Books & Stationery,Non-Fiction,InkWell,8.0,12.81,1490,100,3.7,2019-12-31
+PROD00079,StudyPro Office Plus 903,CAT0027,Books & Stationery,Office Supplies,StudyPro,18.27,28.3,130,127,4.2,2019-04-12
+PROD00080,PureSkin Makeup Prime 294,CAT0019,Beauty & Personal Care,Makeup,PureSkin,55.45,88.84,215,102,4.3,2023-10-17
+PROD00081,UrbanEdge Men's Max 774,CAT0007,Fashion,Men's Clothing,UrbanEdge,79.37,101.49,1039,45,3.9,2019-09-07
+PROD00082,OnePlusX Televisions Classic 533,CAT0006,Electronics,Televisions,OnePlusX,284.64,365.95,994,122,2.6,2022-03-28
+PROD00083,PureSkin Haircare Air 984,CAT0018,Beauty & Personal Care,Haircare,PureSkin,53.67,95.13,1372,35,3.6,2022-02-05
+PROD00084,PagePress Office Max 162,CAT0027,Books & Stationery,Office Supplies,PagePress,22.57,42.85,28,81,3.7,2020-11-27
+PROD00085,Levine Bags Classic 919,CAT0011,Fashion,Bags,Levine,38.43,59.71,375,87,4.3,2019-10-20
+PROD00086,PagePress Office Plus 296,CAT0027,Books & Stationery,Office Supplies,PagePress,28.15,49.58,938,143,3.5,2023-01-03
+PROD00087,StyleHub Bags Neo 559,CAT0011,Fashion,Bags,StyleHub,75.29,105.4,1266,129,3.1,2019-08-14
+PROD00088,TrekGear Cycling Prime 287,CAT0022,Sports & Outdoors,Cycling,TrekGear,202.18,331.22,418,101,4.2,2025-03-13
+PROD00089,Prestige+ Lighting Air 355,CAT0016,Home & Kitchen,Lighting,Prestige+,192.54,289.63,634,48,4.7,2021-07-09
+PROD00090,FarmFresh Snacks Air 927,CAT0032,Grocery,Snacks,FarmFresh,2.12,3.61,1199,109,3.8,2019-02-06
+PROD00091,FarmFresh Snacks Pro 767,CAT0032,Grocery,Snacks,FarmFresh,20.97,30.95,39,110,4.7,2022-08-05
+PROD00092,Puma+ Women's Pro 195,CAT0008,Fashion,Women's Clothing,Puma+,97.31,164.66,190,26,4.7,2020-07-10
+PROD00093,FashionNova2 Watches Plus 270,CAT0010,Fashion,Watches,FashionNova2,11.28,20.2,294,32,4.0,2022-02-10
+PROD00094,PureSkin Skincare Air 592,CAT0017,Beauty & Personal Care,Skincare,PureSkin,5.5,8.42,993,82,3.5,2025-07-10
+PROD00095,LGtech Headphones Prime 160,CAT0003,Electronics,Headphones,LGtech,749.02,1219.71,704,41,4.1,2025-03-07
+PROD00096,KitchenPro Cookware Prime 102,CAT0013,Home & Kitchen,Cookware,KitchenPro,291.13,425.15,78,77,2.5,2022-12-24
+PROD00097,IdealHome Home Ultra 902,CAT0014,Home & Kitchen,Home Decor,IdealHome,44.13,77.33,1107,41,2.8,2021-09-15
+PROD00098,StudyPro Office Ultra 533,CAT0027,Books & Stationery,Office Supplies,StudyPro,39.41,55.15,1186,83,4.7,2021-03-02
+PROD00099,AdiSport Footwear Neo 777,CAT0009,Fashion,Footwear,AdiSport,104.81,188.56,198,112,2.8,2020-11-23
+PROD00100,AdiSport Bags Air 258,CAT0011,Fashion,Bags,AdiSport,116.36,187.68,1016,82,4.1,2019-04-27
+PROD00101,NatureCare Fragrances Ultra 322,CAT0020,Beauty & Personal Care,Fragrances,NatureCare,13.23,22.75,10,64,4.4,2024-08-05
+PROD00102,FarmFresh Snacks Edge 853,CAT0032,Grocery,Snacks,FarmFresh,13.47,22.25,672,116,3.8,2023-11-04
+PROD00103,LivWell Furniture Pro 865,CAT0012,Home & Kitchen,Furniture,LivWell,37.39,51.6,886,68,4.9,2019-11-13
+PROD00104,LuxeBeauty Skincare Pro 151,CAT0017,Beauty & Personal Care,Skincare,LuxeBeauty,7.86,13.92,1341,130,4.5,2024-08-16
+PROD00105,Xiaomia Headphones Neo 973,CAT0003,Electronics,Headphones,Xiaomia,545.62,939.09,1035,106,4.1,2023-04-10
+PROD00106,InkWell Non-Fiction Pro 620,CAT0026,Books & Stationery,Non-Fiction,InkWell,32.22,51.91,913,56,5.0,2021-12-18
+PROD00107,FitMax Fitness Lite 170,CAT0021,Sports & Outdoors,Fitness Equipment,FitMax,17.36,29.91,956,43,3.6,2020-05-30
+PROD00108,FarmFresh Snacks Plus 513,CAT0032,Grocery,Snacks,FarmFresh,11.1,18.25,334,25,4.1,2021-01-24
+PROD00109,HomeCraft Storage Edge 352,CAT0015,Home & Kitchen,Storage,HomeCraft,75.04,138.14,1321,33,4.9,2020-01-10
+PROD00110,Sonyx Televisions Edge 183,CAT0006,Electronics,Televisions,Sonyx,359.77,471.99,1168,142,3.3,2019-01-28
+PROD00111,OrganicHarvest Packaged Edge 678,CAT0034,Grocery,Packaged Foods,OrganicHarvest,7.43,9.64,269,99,3.8,2023-12-07
+PROD00112,OfficeMate Non-Fiction Ultra 309,CAT0026,Books & Stationery,Non-Fiction,OfficeMate,12.34,20.28,686,68,4.6,2023-04-29
+PROD00113,OfficeMate Notebooks Plus 371,CAT0028,Books & Stationery,Notebooks,OfficeMate,39.51,50.72,1024,138,3.1,2021-12-18
+PROD00114,StudyPro Non-Fiction Lite 787,CAT0026,Books & Stationery,Non-Fiction,StudyPro,38.71,64.47,1208,58,3.6,2021-07-07
+PROD00115,OfficeMate Office Air 423,CAT0027,Books & Stationery,Office Supplies,OfficeMate,10.47,13.73,668,115,3.1,2023-02-27
+PROD00116,FashionNova2 Men's Max 109,CAT0007,Fashion,Men's Clothing,FashionNova2,85.57,138.7,587,91,4.5,2024-06-10
+PROD00117,Xiaomia Televisions Edge 676,CAT0006,Electronics,Televisions,Xiaomia,557.39,714.2,1184,108,4.7,2020-05-03
+PROD00118,UrbanEdge Bags Max 650,CAT0011,Fashion,Bags,UrbanEdge,80.86,146.74,1367,73,4.1,2020-12-11
+PROD00119,InkWell Notebooks Neo 371,CAT0028,Books & Stationery,Notebooks,InkWell,19.44,26.43,973,93,4.4,2021-10-23
+PROD00120,NatureCare Skincare Classic 170,CAT0017,Beauty & Personal Care,Skincare,NatureCare,55.28,77.94,782,62,4.4,2022-09-11
+PROD00121,NatureBite Organic Classic 391,CAT0035,Grocery,Organic Foods,NatureBite,23.96,40.15,50,34,3.0,2019-05-21
+PROD00122,NatureBite Packaged Air 953,CAT0034,Grocery,Packaged Foods,NatureBite,14.4,20.91,1443,21,3.2,2024-11-07
+PROD00123,DailyNeeds Beverages Edge 926,CAT0033,Grocery,Beverages,DailyNeeds,15.05,21.32,35,103,3.7,2023-12-04
+PROD00124,Sonyx Cameras Neo 406,CAT0004,Electronics,Cameras,Sonyx,661.81,1168.71,9,141,3.4,2025-01-08
+PROD00125,Samong Headphones Lite 370,CAT0003,Electronics,Headphones,Samong,315.07,521.6,992,88,2.9,2020-04-27
+PROD00126,HomeCraft Furniture Max 860,CAT0012,Home & Kitchen,Furniture,HomeCraft,167.58,237.46,1100,21,3.2,2019-09-20
+PROD00127,NatureBite Beverages Ultra 388,CAT0033,Grocery,Beverages,NatureBite,4.39,7.55,553,51,3.2,2021-10-02
+PROD00128,BabyCare+ Educational Classic 308,CAT0031,Toys & Baby Products,Educational Games,BabyCare+,57.46,102.89,955,24,2.7,2019-06-09
+PROD00129,Prestige+ Furniture Neo 600,CAT0012,Home & Kitchen,Furniture,Prestige+,200.5,336.88,1232,54,4.3,2023-12-27
+PROD00130,Boatix Televisions Pro 194,CAT0006,Electronics,Televisions,Boatix,300.18,457.7,54,31,3.4,2024-04-15
+PROD00131,AdiSport Men's Prime 949,CAT0007,Fashion,Men's Clothing,AdiSport,61.19,86.18,285,103,4.1,2020-03-31
+PROD00132,ProSport Fitness Pro 103,CAT0021,Sports & Outdoors,Fitness Equipment,ProSport,180.1,267.28,340,21,4.8,2024-02-10
+PROD00133,Prestige+ Storage Lite 752,CAT0015,Home & Kitchen,Storage,Prestige+,283.58,426.55,11,68,2.8,2020-08-16
+PROD00134,Prestige+ Cookware Lite 859,CAT0013,Home & Kitchen,Cookware,Prestige+,166.76,210.93,858,149,3.1,2023-12-17
+PROD00135,Xiaomia Cameras Neo 822,CAT0004,Electronics,Cameras,Xiaomia,479.78,858.36,1459,44,4.2,2021-08-21
+PROD00136,OutdoorX Cycling Neo 109,CAT0022,Sports & Outdoors,Cycling,OutdoorX,113.8,150.07,389,112,2.5,2021-12-19
+PROD00137,PagePress Fiction Max 807,CAT0025,Books & Stationery,Fiction,PagePress,20.93,30.21,982,102,2.9,2019-05-29
+PROD00138,StyleHub Watches Neo 136,CAT0010,Fashion,Watches,StyleHub,41.97,69.25,819,71,4.1,2020-02-26
+PROD00139,FashionNova2 Footwear Classic 696,CAT0009,Fashion,Footwear,FashionNova2,22.64,39.1,597,149,2.8,2025-04-12
+PROD00140,NatureBite Organic Prime 230,CAT0035,Grocery,Organic Foods,NatureBite,16.47,22.72,172,71,3.2,2020-09-20
+PROD00141,PagePress Fiction Ultra 473,CAT0025,Books & Stationery,Fiction,PagePress,16.91,29.77,396,132,4.9,2019-01-17
+PROD00142,Sonyx Headphones Classic 315,CAT0003,Electronics,Headphones,Sonyx,544.02,971.8,758,53,3.5,2025-02-25
+PROD00143,NatureCare Haircare Max 462,CAT0018,Beauty & Personal Care,Haircare,NatureCare,53.54,68.25,86,62,4.1,2020-02-12
+PROD00144,StudyPro Notebooks Edge 867,CAT0028,Books & Stationery,Notebooks,StudyPro,39.69,69.83,562,24,3.9,2024-07-30
+PROD00145,KitchenPro Home Plus 985,CAT0014,Home & Kitchen,Home Decor,KitchenPro,20.97,31.42,945,68,3.1,2023-06-02
+PROD00146,InkWell Notebooks Lite 522,CAT0028,Books & Stationery,Notebooks,InkWell,7.63,11.95,159,114,3.8,2022-06-03
+PROD00147,GlowUp Makeup Lite 854,CAT0019,Beauty & Personal Care,Makeup,GlowUp,17.35,32.32,413,51,3.7,2024-11-30
+PROD00148,Prestige+ Furniture Prime 921,CAT0012,Home & Kitchen,Furniture,Prestige+,247.54,383.53,301,123,3.9,2020-10-24
+PROD00149,AdiSport Watches Plus 373,CAT0010,Fashion,Watches,AdiSport,27.87,47.99,282,69,3.0,2022-12-01
+PROD00150,Applyn Smart Max 491,CAT0005,Electronics,Smart Watches,Applyn,680.53,1236.97,1390,44,4.4,2022-02-08
+PROD00151,HomeCraft Storage Air 327,CAT0015,Home & Kitchen,Storage,HomeCraft,246.35,413.23,472,29,4.4,2025-06-07
+PROD00152,StyleHub Women's Air 458,CAT0008,Fashion,Women's Clothing,StyleHub,29.06,50.41,1037,140,4.9,2023-11-14
+PROD00153,Boatix Headphones Plus 328,CAT0003,Electronics,Headphones,Boatix,681.48,912.9,1492,73,4.2,2025-02-27
+PROD00154,GlowUp Skincare Plus 508,CAT0017,Beauty & Personal Care,Skincare,GlowUp,10.11,16.45,1078,139,4.0,2019-06-11
+PROD00155,OfficeMate Fiction Ultra 985,CAT0025,Books & Stationery,Fiction,OfficeMate,8.51,16.07,1140,119,3.8,2020-03-07
+PROD00156,FunKidz Educational Ultra 459,CAT0031,Toys & Baby Products,Educational Games,FunKidz,73.12,126.27,1141,64,2.9,2019-07-17
+PROD00157,OrganicHarvest Packaged Neo 439,CAT0034,Grocery,Packaged Foods,OrganicHarvest,15.52,21.26,137,69,2.9,2023-07-01
+PROD00158,GlowUp Makeup Max 998,CAT0019,Beauty & Personal Care,Makeup,GlowUp,33.49,60.86,1372,83,3.0,2024-09-27
+PROD00159,LuxeBeauty Fragrances Lite 694,CAT0020,Beauty & Personal Care,Fragrances,LuxeBeauty,39.71,49.82,808,79,2.8,2023-06-08
+PROD00160,Prestige+ Home Pro 211,CAT0014,Home & Kitchen,Home Decor,Prestige+,34.65,48.93,1423,125,4.6,2020-08-04
+PROD00161,StudyPro Office Classic 846,CAT0027,Books & Stationery,Office Supplies,StudyPro,8.15,12.03,638,139,3.2,2022-08-29
+PROD00162,LuxeBeauty Makeup Prime 720,CAT0019,Beauty & Personal Care,Makeup,LuxeBeauty,44.88,84.32,444,136,3.1,2025-07-02
+PROD00163,LivWell Cookware Max 494,CAT0013,Home & Kitchen,Cookware,LivWell,294.45,485.37,197,117,3.7,2021-05-02
+PROD00164,DermaPlus Haircare Plus 360,CAT0018,Beauty & Personal Care,Haircare,DermaPlus,10.37,18.27,1317,78,3.6,2023-09-24
+PROD00165,Sonyx Mobile Prime 101,CAT0001,Electronics,Mobile Phones,Sonyx,645.49,859.83,78,135,4.7,2024-10-06
+PROD00166,CycloTech Fitness Neo 803,CAT0021,Sports & Outdoors,Fitness Equipment,CycloTech,92.48,137.96,600,142,3.5,2019-11-03
+PROD00167,InkWell Fiction Classic 541,CAT0025,Books & Stationery,Fiction,InkWell,13.23,18.22,237,123,3.8,2020-04-12
+PROD00168,PagePress Notebooks Classic 738,CAT0028,Books & Stationery,Notebooks,PagePress,9.25,11.76,612,143,4.6,2020-09-04
+PROD00169,LuxeBeauty Makeup Max 837,CAT0019,Beauty & Personal Care,Makeup,LuxeBeauty,53.53,101.15,669,32,3.3,2021-07-12
+PROD00170,Boatix Headphones Neo 416,CAT0003,Electronics,Headphones,Boatix,711.45,926.03,644,28,4.5,2022-12-28
+PROD00171,StudyPro Non-Fiction Classic 512,CAT0026,Books & Stationery,Non-Fiction,StudyPro,14.62,26.64,985,40,2.8,2022-05-26
+PROD00172,LuxeBeauty Fragrances Neo 230,CAT0020,Beauty & Personal Care,Fragrances,LuxeBeauty,24.14,35.7,836,127,3.7,2021-07-19
+PROD00173,LGtech Headphones Prime 780,CAT0003,Electronics,Headphones,LGtech,73.34,138.95,854,147,4.1,2020-03-17
+PROD00174,StudyPro Non-Fiction Lite 730,CAT0026,Books & Stationery,Non-Fiction,StudyPro,27.17,47.49,844,134,4.8,2025-03-16
+PROD00175,LittleStars Toys Prime 661,CAT0029,Toys & Baby Products,Toys,LittleStars,37.33,49.35,595,132,2.6,2019-09-27
+PROD00176,GlowUp Fragrances Ultra 393,CAT0020,Beauty & Personal Care,Fragrances,GlowUp,21.07,39.52,1086,92,3.3,2022-10-30
+PROD00177,KitchenPro Storage Prime 904,CAT0015,Home & Kitchen,Storage,KitchenPro,143.21,231.81,819,108,4.6,2021-03-31
+PROD00178,JBLPro Smart Air 552,CAT0005,Electronics,Smart Watches,JBLPro,272.93,499.46,1150,35,3.1,2023-08-21
+PROD00179,OutdoorX Cycling Plus 623,CAT0022,Sports & Outdoors,Cycling,OutdoorX,168.12,290.75,1224,87,4.7,2020-04-26
+PROD00180,Levine Bags Lite 774,CAT0011,Fashion,Bags,Levine,72.04,131.84,604,40,4.1,2023-12-17
+PROD00181,HomeCraft Lighting Ultra 627,CAT0016,Home & Kitchen,Lighting,HomeCraft,207.78,296.4,346,124,3.8,2022-01-15
+PROD00182,JBLPro Mobile Max 938,CAT0001,Electronics,Mobile Phones,JBLPro,355.23,548.05,752,118,3.0,2022-08-07
+PROD00183,NatureBite Packaged Ultra 330,CAT0034,Grocery,Packaged Foods,NatureBite,21.41,30.73,340,81,3.5,2025-03-30
+PROD00184,LGtech Smart Lite 125,CAT0005,Electronics,Smart Watches,LGtech,347.76,593.44,906,96,4.8,2019-01-01
+PROD00185,FarmFresh Packaged Plus 586,CAT0034,Grocery,Packaged Foods,FarmFresh,18.52,34.63,1476,27,4.7,2019-06-23
+PROD00186,LivWell Storage Max 566,CAT0015,Home & Kitchen,Storage,LivWell,31.96,47.62,411,103,4.8,2019-11-28
+PROD00187,StudyPro Fiction Edge 299,CAT0025,Books & Stationery,Fiction,StudyPro,16.39,27.26,1141,140,2.9,2021-02-09
+PROD00188,PureSkin Skincare Air 509,CAT0017,Beauty & Personal Care,Skincare,PureSkin,8.65,12.47,1334,64,3.5,2022-10-12
+PROD00189,InkWell Fiction Lite 771,CAT0025,Books & Stationery,Fiction,InkWell,34.29,57.86,374,92,3.3,2021-11-19
+PROD00190,Sonyx Mobile Max 897,CAT0001,Electronics,Mobile Phones,Sonyx,384.81,573.85,1141,119,3.5,2024-04-27
+PROD00191,Levine Bags Plus 280,CAT0011,Fashion,Bags,Levine,26.69,44.57,1442,145,4.0,2024-01-04
+PROD00192,LivWell Home Air 151,CAT0014,Home & Kitchen,Home Decor,LivWell,254.89,356.47,1367,86,4.9,2022-03-24
+PROD00193,Puma+ Women's Plus 968,CAT0008,Fashion,Women's Clothing,Puma+,111.67,200.23,169,143,3.3,2023-09-28
+PROD00194,FunKidz Toys Air 236,CAT0029,Toys & Baby Products,Toys,FunKidz,87.51,165.14,304,128,4.4,2022-11-03
+PROD00195,PureSkin Fragrances Neo 672,CAT0020,Beauty & Personal Care,Fragrances,PureSkin,44.0,78.76,835,148,4.0,2022-07-27
+PROD00196,DailyNeeds Packaged Air 727,CAT0034,Grocery,Packaged Foods,DailyNeeds,9.49,16.75,786,104,2.9,2020-10-18
+PROD00197,OnePlusX Televisions Neo 556,CAT0006,Electronics,Televisions,OnePlusX,583.16,1011.67,475,24,4.5,2021-11-09
+PROD00198,BabyCare+ Baby Air 560,CAT0030,Toys & Baby Products,Baby Care,BabyCare+,69.14,100.02,1251,121,3.8,2022-05-24
+PROD00199,Boatix Laptops Plus 960,CAT0002,Electronics,Laptops,Boatix,380.92,625.23,771,128,3.7,2024-02-07
+PROD00200,AdiSport Footwear Ultra 884,CAT0009,Fashion,Footwear,AdiSport,57.18,94.76,286,133,3.7,2023-10-16
+PROD00201,PlaySafe Baby Plus 381,CAT0030,Toys & Baby Products,Baby Care,PlaySafe,28.69,53.72,1326,38,3.0,2019-04-23
+PROD00202,OrganicHarvest Snacks Max 830,CAT0032,Grocery,Snacks,OrganicHarvest,23.55,42.02,200,146,4.7,2020-06-30
+PROD00203,Boatix Headphones Plus 378,CAT0003,Electronics,Headphones,Boatix,510.2,674.56,187,53,2.5,2024-10-31
+PROD00204,DailyNeeds Packaged Classic 653,CAT0034,Grocery,Packaged Foods,DailyNeeds,3.68,5.56,110,53,3.2,2022-05-23
+PROD00205,Samong Televisions Lite 254,CAT0006,Electronics,Televisions,Samong,746.92,1226.64,1076,38,4.1,2024-09-09
+PROD00206,LGtech Cameras Prime 810,CAT0004,Electronics,Cameras,LGtech,716.49,1228.11,1011,72,4.5,2021-11-11
+PROD00207,StyleHub Watches Plus 165,CAT0010,Fashion,Watches,StyleHub,21.43,36.84,872,68,3.3,2021-09-17
+PROD00208,OutdoorX Cycling Prime 438,CAT0022,Sports & Outdoors,Cycling,OutdoorX,224.97,418.73,1180,140,3.4,2019-05-17
+PROD00209,DermaPlus Fragrances Air 525,CAT0020,Beauty & Personal Care,Fragrances,DermaPlus,54.05,70.7,470,79,4.1,2021-06-24
+PROD00210,HomeCraft Storage Plus 952,CAT0015,Home & Kitchen,Storage,HomeCraft,264.52,376.9,978,56,2.6,2022-01-29
+PROD00211,IdealHome Cookware Prime 888,CAT0013,Home & Kitchen,Cookware,IdealHome,261.76,473.35,1036,119,4.6,2020-10-10
+PROD00212,Puma+ Footwear Pro 977,CAT0009,Fashion,Footwear,Puma+,60.9,101.92,273,22,3.3,2021-07-28
+PROD00213,StudyPro Notebooks Air 106,CAT0028,Books & Stationery,Notebooks,StudyPro,16.61,26.33,1067,66,4.6,2020-07-11
+PROD00214,LuxeBeauty Skincare Ultra 871,CAT0017,Beauty & Personal Care,Skincare,LuxeBeauty,44.02,80.95,883,43,4.3,2021-01-09
+PROD00215,OnePlusX Televisions Prime 651,CAT0006,Electronics,Televisions,OnePlusX,81.24,131.93,174,52,4.3,2024-08-21
+PROD00216,LivWell Lighting Edge 325,CAT0016,Home & Kitchen,Lighting,LivWell,199.24,350.11,1479,64,3.5,2020-10-05
+PROD00217,Xiaomia Cameras Plus 379,CAT0004,Electronics,Cameras,Xiaomia,724.59,1372.11,630,75,5.0,2020-03-09
+PROD00218,PlaySafe Educational Air 129,CAT0031,Toys & Baby Products,Educational Games,PlaySafe,81.17,118.09,1362,30,5.0,2021-12-27
+PROD00219,Levine Women's Classic 784,CAT0008,Fashion,Women's Clothing,Levine,83.5,142.79,1265,45,2.9,2024-08-14
+PROD00220,PureSkin Skincare Lite 960,CAT0017,Beauty & Personal Care,Skincare,PureSkin,27.86,52.25,1413,57,4.8,2025-03-07
+PROD00221,StudyPro Notebooks Lite 737,CAT0028,Books & Stationery,Notebooks,StudyPro,20.81,27.87,330,96,3.8,2021-05-12
+PROD00222,Puma+ Men's Pro 503,CAT0007,Fashion,Men's Clothing,Puma+,115.59,163.99,273,38,2.9,2021-05-19
+PROD00223,DermaPlus Makeup Edge 778,CAT0019,Beauty & Personal Care,Makeup,DermaPlus,48.59,91.6,1270,27,2.9,2019-01-08
+PROD00224,PagePress Fiction Max 758,CAT0025,Books & Stationery,Fiction,PagePress,38.53,63.27,420,93,4.5,2025-01-27
+PROD00225,StudyPro Notebooks Lite 987,CAT0028,Books & Stationery,Notebooks,StudyPro,12.39,22.69,1196,29,4.8,2023-01-01
+PROD00226,OrganicHarvest Packaged Lite 151,CAT0034,Grocery,Packaged Foods,OrganicHarvest,19.35,35.74,1382,110,3.2,2019-10-01
+PROD00227,LuxeBeauty Haircare Prime 435,CAT0018,Beauty & Personal Care,Haircare,LuxeBeauty,27.86,35.32,314,60,2.6,2024-03-28
+PROD00228,StyleHub Women's Air 434,CAT0008,Fashion,Women's Clothing,StyleHub,24.6,35.97,402,128,3.4,2024-07-31
+PROD00229,LittleStars Toys Prime 384,CAT0029,Toys & Baby Products,Toys,LittleStars,22.4,30.71,1170,131,4.6,2020-04-19
+PROD00230,OrganicHarvest Packaged Ultra 954,CAT0034,Grocery,Packaged Foods,OrganicHarvest,17.95,31.43,1027,86,3.8,2019-10-06
+PROD00231,FunKidz Educational Air 119,CAT0031,Toys & Baby Products,Educational Games,FunKidz,35.78,49.39,1108,80,3.6,2020-01-19
+PROD00232,PagePress Fiction Classic 329,CAT0025,Books & Stationery,Fiction,PagePress,30.45,44.06,701,120,4.3,2022-12-05
+PROD00233,FunKidz Baby Pro 872,CAT0030,Toys & Baby Products,Baby Care,FunKidz,69.81,94.05,271,78,3.5,2024-09-10
+PROD00234,FarmFresh Packaged Plus 304,CAT0034,Grocery,Packaged Foods,FarmFresh,8.82,15.12,916,120,2.8,2024-01-31
+PROD00235,FunKidz Baby Edge 256,CAT0030,Toys & Baby Products,Baby Care,FunKidz,13.35,17.75,1401,145,3.4,2021-02-01
+PROD00236,StyleHub Watches Lite 584,CAT0010,Fashion,Watches,StyleHub,23.92,36.67,191,84,3.3,2023-02-06
+PROD00237,Samong Smart Edge 323,CAT0005,Electronics,Smart Watches,Samong,172.28,324.0,700,78,3.8,2021-06-20
+PROD00238,Levine Men's Ultra 885,CAT0007,Fashion,Men's Clothing,Levine,116.31,187.17,715,99,2.8,2023-01-21
+PROD00239,JBLPro Mobile Lite 720,CAT0001,Electronics,Mobile Phones,JBLPro,656.59,1219.91,1014,102,4.1,2020-05-14
+PROD00240,FarmFresh Snacks Lite 418,CAT0032,Grocery,Snacks,FarmFresh,9.68,16.71,845,88,2.7,2022-09-03
+PROD00241,Samong Televisions Edge 126,CAT0006,Electronics,Televisions,Samong,112.94,195.02,214,33,4.5,2019-05-08
+PROD00242,Boatix Headphones Edge 793,CAT0003,Electronics,Headphones,Boatix,613.2,837.99,517,77,2.8,2022-09-03
+PROD00243,StudyPro Non-Fiction Prime 832,CAT0026,Books & Stationery,Non-Fiction,StudyPro,5.74,9.94,585,41,2.9,2019-08-07
+PROD00244,LGtech Smart Max 706,CAT0005,Electronics,Smart Watches,LGtech,106.69,134.41,1157,46,4.2,2020-04-25
+PROD00245,NatureCare Skincare Max 813,CAT0017,Beauty & Personal Care,Skincare,NatureCare,18.72,30.85,1338,67,2.5,2022-06-25
+PROD00246,Prestige+ Storage Edge 924,CAT0015,Home & Kitchen,Storage,Prestige+,208.83,391.02,1443,92,4.6,2020-09-09
+PROD00247,FarmFresh Snacks Edge 901,CAT0032,Grocery,Snacks,FarmFresh,3.94,6.99,366,34,4.5,2019-03-14
+PROD00248,FitMax Camping Classic 645,CAT0023,Sports & Outdoors,Camping Gear,FitMax,170.96,304.64,1134,66,2.6,2024-08-02
+PROD00249,OrganicHarvest Organic Classic 170,CAT0035,Grocery,Organic Foods,OrganicHarvest,15.68,23.39,1361,57,3.5,2022-04-02
+PROD00250,DailyNeeds Packaged Pro 969,CAT0034,Grocery,Packaged Foods,DailyNeeds,3.57,5.32,1096,126,3.8,2022-10-24
+PROD00251,IdealHome Storage Air 208,CAT0015,Home & Kitchen,Storage,IdealHome,260.05,465.98,679,133,4.1,2023-04-22
+PROD00252,StudyPro Fiction Classic 750,CAT0025,Books & Stationery,Fiction,StudyPro,10.44,16.24,87,87,3.0,2021-04-02
+PROD00253,StudyPro Notebooks Lite 545,CAT0028,Books & Stationery,Notebooks,StudyPro,22.11,38.37,962,128,4.6,2021-03-13
+PROD00254,Applyn Headphones Neo 766,CAT0003,Electronics,Headphones,Applyn,654.38,1189.15,1334,65,4.8,2023-04-21
+PROD00255,LuxeBeauty Makeup Edge 927,CAT0019,Beauty & Personal Care,Makeup,LuxeBeauty,17.75,26.21,424,137,4.5,2019-03-28
+PROD00256,LivWell Lighting Air 576,CAT0016,Home & Kitchen,Lighting,LivWell,228.28,388.32,494,131,2.8,2022-11-25
+PROD00257,Levine Footwear Edge 374,CAT0009,Fashion,Footwear,Levine,104.65,180.63,498,141,3.4,2019-04-25
+PROD00258,Zarello Footwear Plus 950,CAT0009,Fashion,Footwear,Zarello,66.15,123.96,362,52,3.6,2019-01-19
+PROD00259,FarmFresh Beverages Ultra 561,CAT0033,Grocery,Beverages,FarmFresh,2.51,4.68,559,83,4.8,2019-10-22
+PROD00260,StyleHub Men's Air 683,CAT0007,Fashion,Men's Clothing,StyleHub,85.51,107.89,528,44,4.2,2024-07-19
+PROD00261,Puma+ Women's Prime 444,CAT0008,Fashion,Women's Clothing,Puma+,36.37,56.93,946,137,4.5,2020-12-18
+PROD00262,FarmFresh Packaged Air 971,CAT0034,Grocery,Packaged Foods,FarmFresh,2.36,3.38,193,41,3.7,2025-02-10
+PROD00263,Zarello Footwear Lite 599,CAT0009,Fashion,Footwear,Zarello,102.97,191.8,322,102,2.7,2019-07-25
+PROD00264,LGtech Cameras Classic 916,CAT0004,Electronics,Cameras,LGtech,329.4,458.35,1085,68,3.4,2020-11-01
+PROD00265,LittleStars Baby Classic 386,CAT0030,Toys & Baby Products,Baby Care,LittleStars,71.47,126.64,1337,118,4.2,2019-02-13
+PROD00266,CycloTech Cycling Ultra 669,CAT0022,Sports & Outdoors,Cycling,CycloTech,189.99,318.27,803,81,2.9,2023-09-02
+PROD00267,FarmFresh Organic Neo 295,CAT0035,Grocery,Organic Foods,FarmFresh,21.98,37.82,394,99,2.7,2020-01-06
+PROD00268,PagePress Fiction Plus 837,CAT0025,Books & Stationery,Fiction,PagePress,12.77,18.66,684,141,3.2,2021-07-11
+PROD00269,OutdoorX Cycling Air 668,CAT0022,Sports & Outdoors,Cycling,OutdoorX,196.73,335.29,203,47,3.0,2021-12-29
+PROD00270,BabyCare+ Baby Air 761,CAT0030,Toys & Baby Products,Baby Care,BabyCare+,41.46,65.68,454,123,4.2,2024-04-21
+PROD00271,PlaySafe Baby Air 911,CAT0030,Toys & Baby Products,Baby Care,PlaySafe,32.76,58.13,457,128,3.7,2019-12-17
+PROD00272,Sonyx Laptops Max 401,CAT0002,Electronics,Laptops,Sonyx,80.26,134.46,802,105,2.5,2021-07-08
+PROD00273,NatureBite Beverages Prime 808,CAT0033,Grocery,Beverages,NatureBite,21.88,35.7,536,87,5.0,2020-01-18
+PROD00274,TrekGear Camping Ultra 779,CAT0023,Sports & Outdoors,Camping Gear,TrekGear,146.68,242.32,1214,78,3.7,2023-08-12
+PROD00275,OfficeMate Non-Fiction Air 666,CAT0026,Books & Stationery,Non-Fiction,OfficeMate,4.97,8.4,887,94,2.9,2022-12-19
+PROD00276,Puma+ Watches Classic 535,CAT0010,Fashion,Watches,Puma+,117.12,149.62,942,112,4.9,2020-03-09
+PROD00277,LittleStars Educational Classic 819,CAT0031,Toys & Baby Products,Educational Games,LittleStars,50.55,76.39,972,85,3.9,2024-02-01
+PROD00278,OutdoorX Cycling Ultra 413,CAT0022,Sports & Outdoors,Cycling,OutdoorX,22.48,36.97,627,81,4.0,2021-09-02
+PROD00279,OfficeMate Non-Fiction Plus 223,CAT0026,Books & Stationery,Non-Fiction,OfficeMate,32.7,59.95,1246,138,4.0,2022-05-15
+PROD00280,AdiSport Women's Plus 423,CAT0008,Fashion,Women's Clothing,AdiSport,14.99,19.57,1121,90,3.0,2023-12-31
+PROD00281,HomeCraft Cookware Neo 880,CAT0013,Home & Kitchen,Cookware,HomeCraft,283.58,375.57,235,75,2.9,2024-04-14
+PROD00282,BabyCare+ Baby Plus 321,CAT0030,Toys & Baby Products,Baby Care,BabyCare+,62.29,86.39,1109,23,2.9,2024-06-06
+PROD00283,PureSkin Haircare Ultra 841,CAT0018,Beauty & Personal Care,Haircare,PureSkin,10.42,16.27,1289,147,2.9,2024-05-17
+PROD00284,DailyNeeds Organic Max 952,CAT0035,Grocery,Organic Foods,DailyNeeds,11.63,18.0,1112,37,4.2,2021-07-24
+PROD00285,TrekGear Sportswear Ultra 332,CAT0024,Sports & Outdoors,Sportswear,TrekGear,145.01,230.54,844,95,3.7,2022-05-19
+PROD00286,Zarello Bags Lite 409,CAT0011,Fashion,Bags,Zarello,21.11,38.6,1252,96,3.9,2024-02-25
+PROD00287,HomeCraft Lighting Neo 229,CAT0016,Home & Kitchen,Lighting,HomeCraft,291.52,395.72,1474,115,4.8,2025-04-13
+PROD00288,LuxeBeauty Skincare Pro 155,CAT0017,Beauty & Personal Care,Skincare,LuxeBeauty,48.88,86.39,307,108,2.6,2025-05-23
+PROD00289,Boatix Smart Lite 753,CAT0005,Electronics,Smart Watches,Boatix,213.66,371.27,931,148,3.4,2022-09-13
+PROD00290,Xiaomia Mobile Max 993,CAT0001,Electronics,Mobile Phones,Xiaomia,740.55,1291.8,1295,138,3.7,2020-12-22
+PROD00291,HomeCraft Furniture Edge 391,CAT0012,Home & Kitchen,Furniture,HomeCraft,281.52,360.22,848,135,4.2,2020-07-18
+PROD00292,PureSkin Skincare Air 551,CAT0017,Beauty & Personal Care,Skincare,PureSkin,29.1,40.87,139,91,4.8,2022-07-15
+PROD00293,Zarello Watches Lite 152,CAT0010,Fashion,Watches,Zarello,97.76,158.15,1430,75,3.5,2021-08-03
+PROD00294,Prestige+ Lighting Air 216,CAT0016,Home & Kitchen,Lighting,Prestige+,137.87,198.66,103,102,4.1,2024-08-04
+PROD00295,FarmFresh Beverages Prime 603,CAT0033,Grocery,Beverages,FarmFresh,8.38,12.01,57,32,2.5,2021-09-03
+PROD00296,HomeCraft Cookware Edge 744,CAT0013,Home & Kitchen,Cookware,HomeCraft,297.18,437.81,608,133,4.8,2021-07-11
+PROD00297,FarmFresh Beverages Lite 252,CAT0033,Grocery,Beverages,FarmFresh,7.67,11.94,1001,92,4.4,2019-06-01
+PROD00298,CycloTech Cycling Ultra 187,CAT0022,Sports & Outdoors,Cycling,CycloTech,60.99,111.31,851,106,3.2,2019-05-09
+PROD00299,InkWell Non-Fiction Max 671,CAT0026,Books & Stationery,Non-Fiction,InkWell,33.43,44.33,1166,129,4.0,2022-08-18
+PROD00300,OnePlusX Laptops Edge 710,CAT0002,Electronics,Laptops,OnePlusX,524.18,691.29,738,123,4.1,2024-06-09
+PROD00301,LGtech Mobile Neo 489,CAT0001,Electronics,Mobile Phones,LGtech,358.14,531.84,442,121,3.0,2020-08-07
+PROD00302,IdealHome Furniture Air 404,CAT0012,Home & Kitchen,Furniture,IdealHome,214.42,372.3,959,144,4.5,2020-08-28
+PROD00303,OnePlusX Headphones Ultra 682,CAT0003,Electronics,Headphones,OnePlusX,244.75,341.97,110,148,3.1,2022-12-20
+PROD00304,DermaPlus Skincare Pro 724,CAT0017,Beauty & Personal Care,Skincare,DermaPlus,24.3,31.71,848,97,4.8,2019-06-12
+PROD00305,FitMax Cycling Plus 740,CAT0022,Sports & Outdoors,Cycling,FitMax,102.31,135.78,981,77,4.2,2024-05-07
+PROD00306,NatureCare Skincare Ultra 776,CAT0017,Beauty & Personal Care,Skincare,NatureCare,13.87,17.95,383,63,2.8,2019-01-19
+PROD00307,FunKidz Toys Lite 345,CAT0029,Toys & Baby Products,Toys,FunKidz,84.92,123.79,380,90,3.1,2021-12-24
+PROD00308,TrekGear Sportswear Neo 176,CAT0024,Sports & Outdoors,Sportswear,TrekGear,76.74,97.38,1213,109,2.9,2025-04-03
+PROD00309,InkWell Non-Fiction Pro 518,CAT0026,Books & Stationery,Non-Fiction,InkWell,14.58,22.63,102,144,4.1,2023-01-21
+PROD00310,Levine Women's Edge 581,CAT0008,Fashion,Women's Clothing,Levine,12.82,23.88,493,127,3.4,2024-08-15
+PROD00311,LittleStars Baby Pro 337,CAT0030,Toys & Baby Products,Baby Care,LittleStars,32.64,46.57,810,115,4.9,2023-01-15
+PROD00312,Zarello Bags Ultra 819,CAT0011,Fashion,Bags,Zarello,31.62,48.86,1001,22,5.0,2024-10-24
+PROD00313,FashionNova2 Footwear Air 172,CAT0009,Fashion,Footwear,FashionNova2,85.06,136.54,29,44,2.9,2020-05-09
+PROD00314,BabyCare+ Baby Ultra 906,CAT0030,Toys & Baby Products,Baby Care,BabyCare+,61.25,83.05,98,30,4.6,2020-11-15
+PROD00315,FashionNova2 Footwear Edge 777,CAT0009,Fashion,Footwear,FashionNova2,37.63,47.27,482,109,4.9,2021-08-10
+PROD00316,NatureCare Haircare Prime 217,CAT0018,Beauty & Personal Care,Haircare,NatureCare,37.36,63.93,71,26,2.8,2024-03-25
+PROD00317,LGtech Smart Lite 372,CAT0005,Electronics,Smart Watches,LGtech,462.4,857.64,719,55,3.6,2024-02-28
+PROD00318,TrekGear Sportswear Max 161,CAT0024,Sports & Outdoors,Sportswear,TrekGear,169.07,264.57,1454,38,3.0,2019-03-05
+PROD00319,BabyCare+ Baby Ultra 709,CAT0030,Toys & Baby Products,Baby Care,BabyCare+,15.67,28.01,1053,64,3.3,2024-09-12
+PROD00320,LivWell Furniture Ultra 549,CAT0012,Home & Kitchen,Furniture,LivWell,89.05,125.24,238,98,4.6,2021-10-29
+PROD00321,Samong Smart Air 805,CAT0005,Electronics,Smart Watches,Samong,459.19,582.95,648,125,3.8,2020-08-02
+PROD00322,Prestige+ Furniture Prime 378,CAT0012,Home & Kitchen,Furniture,Prestige+,202.94,307.92,129,79,4.2,2024-03-02
+PROD00323,LivWell Storage Neo 605,CAT0015,Home & Kitchen,Storage,LivWell,281.31,501.28,606,111,3.0,2020-07-12
+PROD00324,PureSkin Skincare Max 712,CAT0017,Beauty & Personal Care,Skincare,PureSkin,52.61,94.72,11,46,4.0,2020-10-17
+PROD00325,HomeCraft Storage Prime 852,CAT0015,Home & Kitchen,Storage,HomeCraft,122.76,206.21,1397,61,3.1,2022-06-23
+PROD00326,Prestige+ Furniture Edge 356,CAT0012,Home & Kitchen,Furniture,Prestige+,257.09,376.84,587,109,2.5,2024-03-02
+PROD00327,PagePress Non-Fiction Max 334,CAT0026,Books & Stationery,Non-Fiction,PagePress,29.8,52.85,1217,48,4.5,2024-12-12
+PROD00328,Sonyx Smart Ultra 690,CAT0005,Electronics,Smart Watches,Sonyx,68.51,123.56,1443,41,3.8,2022-10-11
+PROD00329,Sonyx Televisions Lite 581,CAT0006,Electronics,Televisions,Sonyx,504.11,933.0,660,123,2.8,2024-07-07
+PROD00330,Xiaomia Cameras Ultra 285,CAT0004,Electronics,Cameras,Xiaomia,81.85,126.82,555,117,3.3,2020-01-07
+PROD00331,Puma+ Women's Prime 750,CAT0008,Fashion,Women's Clothing,Puma+,40.28,52.76,799,54,4.7,2019-11-22
+PROD00332,IdealHome Home Max 581,CAT0014,Home & Kitchen,Home Decor,IdealHome,204.89,266.91,565,107,3.5,2024-10-02
+PROD00333,ProSport Camping Prime 441,CAT0023,Sports & Outdoors,Camping Gear,ProSport,88.47,149.82,28,131,2.8,2024-12-18
+PROD00334,DailyNeeds Organic Max 978,CAT0035,Grocery,Organic Foods,DailyNeeds,24.88,32.6,170,105,3.3,2024-11-28
+PROD00335,NatureBite Packaged Classic 521,CAT0034,Grocery,Packaged Foods,NatureBite,15.47,24.78,1043,58,4.9,2022-05-15
+PROD00336,StudyPro Non-Fiction Ultra 778,CAT0026,Books & Stationery,Non-Fiction,StudyPro,21.43,31.07,1243,84,4.9,2019-11-24
+PROD00337,PureSkin Fragrances Neo 137,CAT0020,Beauty & Personal Care,Fragrances,PureSkin,40.25,59.69,1444,65,4.3,2020-12-20
+PROD00338,PlaySafe Toys Max 422,CAT0029,Toys & Baby Products,Toys,PlaySafe,69.28,105.17,1461,42,3.3,2021-01-16
+PROD00339,LittleStars Toys Classic 218,CAT0029,Toys & Baby Products,Toys,LittleStars,60.94,94.07,1437,112,4.7,2020-09-13
+PROD00340,StudyPro Fiction Neo 944,CAT0025,Books & Stationery,Fiction,StudyPro,26.98,50.22,1301,100,4.9,2022-04-07
+PROD00341,FarmFresh Packaged Neo 573,CAT0034,Grocery,Packaged Foods,FarmFresh,17.54,22.36,643,23,3.9,2020-04-01
+PROD00342,OrganicHarvest Organic Pro 292,CAT0035,Grocery,Organic Foods,OrganicHarvest,5.41,7.37,1436,35,3.9,2025-04-26
+PROD00343,JBLPro Headphones Edge 874,CAT0003,Electronics,Headphones,JBLPro,510.8,942.56,1113,20,3.3,2024-02-25
+PROD00344,OutdoorX Fitness Air 878,CAT0021,Sports & Outdoors,Fitness Equipment,OutdoorX,107.3,181.01,32,31,4.9,2019-06-04
+PROD00345,Sonyx Smart Plus 373,CAT0005,Electronics,Smart Watches,Sonyx,306.39,406.18,273,22,3.0,2023-11-07
+PROD00346,NatureBite Packaged Ultra 548,CAT0034,Grocery,Packaged Foods,NatureBite,13.58,17.58,1473,146,4.1,2023-05-10
+PROD00347,Xiaomia Smart Max 129,CAT0005,Electronics,Smart Watches,Xiaomia,235.55,420.73,196,61,3.2,2022-09-15
+PROD00348,NatureBite Packaged Lite 418,CAT0034,Grocery,Packaged Foods,NatureBite,15.75,23.63,1317,96,4.9,2021-06-22
+PROD00349,LivWell Cookware Pro 665,CAT0013,Home & Kitchen,Cookware,LivWell,150.21,207.47,333,96,2.8,2025-07-02
+PROD00350,OutdoorX Cycling Max 330,CAT0022,Sports & Outdoors,Cycling,OutdoorX,164.94,237.98,305,31,5.0,2023-09-20
+PROD00351,PagePress Notebooks Air 220,CAT0028,Books & Stationery,Notebooks,PagePress,28.32,42.43,657,78,2.5,2023-01-04
+PROD00352,TrekGear Sportswear Air 833,CAT0024,Sports & Outdoors,Sportswear,TrekGear,166.71,212.88,921,25,4.3,2019-05-28
+PROD00353,ProSport Cycling Neo 822,CAT0022,Sports & Outdoors,Cycling,ProSport,124.02,183.23,1170,54,3.3,2021-11-03
+PROD00354,Prestige+ Storage Prime 954,CAT0015,Home & Kitchen,Storage,Prestige+,128.81,222.21,698,52,4.6,2020-11-22
+PROD00355,Xiaomia Smart Air 349,CAT0005,Electronics,Smart Watches,Xiaomia,699.82,1328.08,527,47,4.2,2020-03-19
+PROD00356,PlaySafe Toys Neo 248,CAT0029,Toys & Baby Products,Toys,PlaySafe,39.77,57.54,1366,126,3.5,2022-03-27
+PROD00357,OrganicHarvest Beverages Plus 713,CAT0033,Grocery,Beverages,OrganicHarvest,3.59,6.42,434,69,2.6,2025-07-22
+PROD00358,InkWell Notebooks Max 382,CAT0028,Books & Stationery,Notebooks,InkWell,25.57,36.31,628,111,4.0,2024-06-08
+PROD00359,FashionNova2 Bags Prime 448,CAT0011,Fashion,Bags,FashionNova2,8.72,11.89,1378,38,4.1,2022-06-18
+PROD00360,DermaPlus Skincare Ultra 940,CAT0017,Beauty & Personal Care,Skincare,DermaPlus,40.31,58.67,220,44,4.4,2023-03-03
+PROD00361,GlowUp Fragrances Ultra 843,CAT0020,Beauty & Personal Care,Fragrances,GlowUp,14.96,24.43,1093,115,4.6,2023-02-23
+PROD00362,LuxeBeauty Fragrances Edge 693,CAT0020,Beauty & Personal Care,Fragrances,LuxeBeauty,16.77,28.04,620,35,3.3,2024-03-27
+PROD00363,OrganicHarvest Beverages Lite 557,CAT0033,Grocery,Beverages,OrganicHarvest,18.56,26.67,1031,86,2.6,2020-06-04
+PROD00364,Xiaomia Televisions Classic 440,CAT0006,Electronics,Televisions,Xiaomia,153.22,195.54,198,149,4.2,2020-07-25
+PROD00365,PlaySafe Toys Air 429,CAT0029,Toys & Baby Products,Toys,PlaySafe,70.1,131.62,747,149,4.9,2023-07-16
+PROD00366,LGtech Laptops Plus 685,CAT0002,Electronics,Laptops,LGtech,481.3,728.43,1490,145,3.0,2019-05-24
+PROD00367,OnePlusX Televisions Plus 976,CAT0006,Electronics,Televisions,OnePlusX,659.06,834.78,304,130,3.2,2023-09-11
+PROD00368,OutdoorX Sportswear Pro 425,CAT0024,Sports & Outdoors,Sportswear,OutdoorX,82.59,111.11,913,48,3.3,2023-01-02
+PROD00369,Xiaomia Televisions Prime 495,CAT0006,Electronics,Televisions,Xiaomia,425.43,795.15,20,73,4.2,2021-04-06
+PROD00370,AdiSport Watches Lite 607,CAT0010,Fashion,Watches,AdiSport,113.92,161.08,378,123,4.6,2024-08-10
+PROD00371,FarmFresh Beverages Lite 614,CAT0033,Grocery,Beverages,FarmFresh,18.57,29.38,382,67,4.6,2020-01-07
+PROD00372,LittleStars Baby Max 995,CAT0030,Toys & Baby Products,Baby Care,LittleStars,30.86,50.85,717,98,2.7,2025-05-07
+PROD00373,StudyPro Notebooks Max 638,CAT0028,Books & Stationery,Notebooks,StudyPro,7.89,14.97,752,32,4.9,2023-01-09
+PROD00374,Xiaomia Mobile Pro 839,CAT0001,Electronics,Mobile Phones,Xiaomia,241.73,312.08,1370,73,3.7,2022-10-12
+PROD00375,Applyn Mobile Prime 991,CAT0001,Electronics,Mobile Phones,Applyn,547.36,833.26,1296,99,3.1,2019-05-10
+PROD00376,KitchenPro Storage Max 580,CAT0015,Home & Kitchen,Storage,KitchenPro,227.71,369.12,708,85,2.5,2023-01-02
+PROD00377,Prestige+ Cookware Classic 738,CAT0013,Home & Kitchen,Cookware,Prestige+,264.71,343.45,58,51,4.3,2024-11-23
+PROD00378,StudyPro Notebooks Max 972,CAT0028,Books & Stationery,Notebooks,StudyPro,10.03,17.77,972,132,3.6,2019-10-22
+PROD00379,Zarello Bags Neo 489,CAT0011,Fashion,Bags,Zarello,106.27,154.99,1319,89,3.1,2019-07-12
+PROD00380,DailyNeeds Organic Air 993,CAT0035,Grocery,Organic Foods,DailyNeeds,23.94,31.82,1221,147,4.8,2022-12-05
+PROD00381,CycloTech Fitness Pro 732,CAT0021,Sports & Outdoors,Fitness Equipment,CycloTech,26.36,40.1,285,41,4.9,2024-12-13
+PROD00382,HomeCraft Storage Plus 746,CAT0015,Home & Kitchen,Storage,HomeCraft,45.44,61.65,1133,41,4.3,2024-03-25
+PROD00383,LuxeBeauty Haircare Plus 864,CAT0018,Beauty & Personal Care,Haircare,LuxeBeauty,15.46,21.81,491,142,4.6,2023-08-31
+PROD00384,GlowUp Haircare Prime 200,CAT0018,Beauty & Personal Care,Haircare,GlowUp,32.64,51.49,1185,65,4.9,2022-05-14
+PROD00385,FarmFresh Snacks Air 270,CAT0032,Grocery,Snacks,FarmFresh,19.01,31.74,437,77,2.7,2021-06-20
+PROD00386,LuxeBeauty Skincare Pro 147,CAT0017,Beauty & Personal Care,Skincare,LuxeBeauty,57.56,86.62,184,88,2.9,2023-05-10
+PROD00387,Zarello Women's Pro 400,CAT0008,Fashion,Women's Clothing,Zarello,64.91,100.14,680,90,4.7,2024-09-10
+PROD00388,LuxeBeauty Skincare Classic 541,CAT0017,Beauty & Personal Care,Skincare,LuxeBeauty,35.9,60.95,916,145,3.1,2024-10-22
+PROD00389,StyleHub Men's Plus 643,CAT0007,Fashion,Men's Clothing,StyleHub,81.67,112.34,186,149,3.4,2024-12-01
+PROD00390,StudyPro Non-Fiction Edge 798,CAT0026,Books & Stationery,Non-Fiction,StudyPro,14.7,20.68,1189,60,2.7,2020-01-01
+PROD00391,Applyn Headphones Lite 279,CAT0003,Electronics,Headphones,Applyn,273.48,370.59,367,113,3.0,2023-10-05
+PROD00392,FarmFresh Beverages Edge 991,CAT0033,Grocery,Beverages,FarmFresh,15.79,21.8,1037,101,3.8,2020-07-12
+PROD00393,Levine Men's Edge 799,CAT0007,Fashion,Men's Clothing,Levine,13.56,19.97,91,101,4.6,2024-07-09
+PROD00394,StyleHub Women's Air 697,CAT0008,Fashion,Women's Clothing,StyleHub,71.72,126.66,1069,65,3.9,2020-02-12
+PROD00395,NatureBite Snacks Plus 572,CAT0032,Grocery,Snacks,NatureBite,10.21,16.97,1359,90,4.4,2019-03-31
+PROD00396,ProSport Fitness Air 361,CAT0021,Sports & Outdoors,Fitness Equipment,ProSport,35.47,62.91,1163,63,3.8,2023-10-18
+PROD00397,FunKidz Baby Air 394,CAT0030,Toys & Baby Products,Baby Care,FunKidz,35.43,53.22,303,143,4.3,2022-07-23
+PROD00398,NatureBite Packaged Max 552,CAT0034,Grocery,Packaged Foods,NatureBite,16.91,21.89,1215,119,2.8,2020-06-07
+PROD00399,JBLPro Televisions Edge 406,CAT0006,Electronics,Televisions,JBLPro,681.58,889.31,646,88,3.0,2019-07-11
+PROD00400,PlaySafe Educational Ultra 567,CAT0031,Toys & Baby Products,Educational Games,PlaySafe,49.04,87.97,421,91,4.8,2020-06-30
+PROD00401,LittleStars Baby Plus 493,CAT0030,Toys & Baby Products,Baby Care,LittleStars,74.84,132.07,882,20,3.9,2020-05-30
+PROD00402,PlaySafe Baby Max 342,CAT0030,Toys & Baby Products,Baby Care,PlaySafe,15.32,20.98,636,70,3.7,2021-10-22
+PROD00403,IdealHome Home Edge 467,CAT0014,Home & Kitchen,Home Decor,IdealHome,163.0,273.5,1461,105,3.9,2022-08-22
+PROD00404,LittleStars Toys Ultra 122,CAT0029,Toys & Baby Products,Toys,LittleStars,78.31,141.27,1469,141,2.6,2021-12-10
+PROD00405,FashionNova2 Footwear Prime 381,CAT0009,Fashion,Footwear,FashionNova2,62.32,95.28,731,76,3.6,2024-06-18
+PROD00406,PagePress Notebooks Edge 985,CAT0028,Books & Stationery,Notebooks,PagePress,24.34,31.26,342,50,2.6,2022-06-09
+PROD00407,GlowUp Makeup Edge 863,CAT0019,Beauty & Personal Care,Makeup,GlowUp,26.63,39.35,583,144,4.7,2019-11-05
+PROD00408,Xiaomia Mobile Ultra 894,CAT0001,Electronics,Mobile Phones,Xiaomia,124.62,206.87,740,113,3.7,2022-07-26
+PROD00409,NatureBite Organic Edge 921,CAT0035,Grocery,Organic Foods,NatureBite,5.79,7.48,1362,48,3.1,2022-06-27
+PROD00410,OfficeMate Non-Fiction Plus 751,CAT0026,Books & Stationery,Non-Fiction,OfficeMate,28.71,51.77,1227,35,2.6,2019-09-11
+PROD00411,KitchenPro Lighting Edge 356,CAT0016,Home & Kitchen,Lighting,KitchenPro,265.75,367.05,638,26,4.4,2020-02-20
+PROD00412,AdiSport Footwear Lite 743,CAT0009,Fashion,Footwear,AdiSport,78.05,120.41,1260,142,3.0,2019-07-08
+PROD00413,FarmFresh Beverages Pro 416,CAT0033,Grocery,Beverages,FarmFresh,2.86,4.51,949,47,4.6,2019-07-16
+PROD00414,FashionNova2 Bags Air 134,CAT0011,Fashion,Bags,FashionNova2,28.94,40.22,1128,120,4.8,2023-09-03
+PROD00415,Puma+ Footwear Classic 849,CAT0009,Fashion,Footwear,Puma+,90.72,155.72,1304,117,4.5,2020-07-26
+PROD00416,StyleHub Women's Max 402,CAT0008,Fashion,Women's Clothing,StyleHub,90.98,128.07,1051,99,2.6,2021-05-15
+PROD00417,Prestige+ Furniture Prime 279,CAT0012,Home & Kitchen,Furniture,Prestige+,116.12,190.27,293,78,3.5,2025-02-24
+PROD00418,InkWell Office Lite 905,CAT0027,Books & Stationery,Office Supplies,InkWell,30.76,55.58,688,143,3.4,2023-01-24
+PROD00419,Puma+ Watches Classic 643,CAT0010,Fashion,Watches,Puma+,59.17,92.45,816,95,3.9,2024-01-22
+PROD00420,DailyNeeds Packaged Lite 363,CAT0034,Grocery,Packaged Foods,DailyNeeds,11.24,17.72,36,96,4.1,2019-02-14
+PROD00421,FashionNova2 Women's Air 925,CAT0008,Fashion,Women's Clothing,FashionNova2,22.46,41.8,324,74,5.0,2019-02-11
+PROD00422,LittleStars Educational Classic 923,CAT0031,Toys & Baby Products,Educational Games,LittleStars,49.33,92.49,1101,104,4.4,2019-02-18
+PROD00423,FitMax Camping Air 177,CAT0023,Sports & Outdoors,Camping Gear,FitMax,155.42,195.34,1015,116,3.9,2022-11-02
+PROD00424,KitchenPro Storage Plus 980,CAT0015,Home & Kitchen,Storage,KitchenPro,274.03,351.53,485,44,4.9,2023-12-18
+PROD00425,OnePlusX Cameras Neo 474,CAT0004,Electronics,Cameras,OnePlusX,484.87,654.79,638,74,2.7,2024-11-26
+PROD00426,HomeCraft Storage Prime 114,CAT0015,Home & Kitchen,Storage,HomeCraft,218.17,405.68,503,137,2.9,2024-09-20
+PROD00427,Zarello Men's Neo 226,CAT0007,Fashion,Men's Clothing,Zarello,96.28,180.17,1104,58,3.5,2020-03-04
+PROD00428,IdealHome Furniture Classic 788,CAT0012,Home & Kitchen,Furniture,IdealHome,31.46,41.18,722,31,2.8,2021-03-08
+PROD00429,LuxeBeauty Fragrances Edge 490,CAT0020,Beauty & Personal Care,Fragrances,LuxeBeauty,24.08,39.12,1234,128,4.5,2024-11-26
+PROD00430,FashionNova2 Bags Classic 210,CAT0011,Fashion,Bags,FashionNova2,37.22,67.41,678,101,4.7,2023-02-11
+PROD00431,AdiSport Watches Plus 582,CAT0010,Fashion,Watches,AdiSport,49.67,93.02,388,23,4.6,2021-08-17
+PROD00432,PagePress Fiction Edge 674,CAT0025,Books & Stationery,Fiction,PagePress,30.25,45.41,0,114,3.7,2024-12-20
+PROD00433,LittleStars Educational Edge 326,CAT0031,Toys & Baby Products,Educational Games,LittleStars,59.49,90.03,808,138,2.5,2019-02-14
+PROD00434,Samong Cameras Air 817,CAT0004,Electronics,Cameras,Samong,604.69,1130.56,508,95,3.7,2020-10-18
+PROD00435,ProSport Sportswear Prime 219,CAT0024,Sports & Outdoors,Sportswear,ProSport,67.3,93.64,722,40,3.5,2019-06-01
+PROD00436,Applyn Cameras Pro 138,CAT0004,Electronics,Cameras,Applyn,766.0,1384.86,845,25,4.2,2023-11-03
+PROD00437,LuxeBeauty Haircare Air 218,CAT0018,Beauty & Personal Care,Haircare,LuxeBeauty,47.77,63.97,834,88,4.2,2021-11-02
+PROD00438,FitMax Fitness Plus 650,CAT0021,Sports & Outdoors,Fitness Equipment,FitMax,47.53,74.07,516,30,4.3,2024-12-04
+PROD00439,Applyn Headphones Prime 564,CAT0003,Electronics,Headphones,Applyn,476.98,752.52,440,58,4.8,2025-07-01
+PROD00440,ProSport Fitness Neo 529,CAT0021,Sports & Outdoors,Fitness Equipment,ProSport,194.26,315.73,1075,52,3.6,2024-12-20
+PROD00441,InkWell Fiction Prime 770,CAT0025,Books & Stationery,Fiction,InkWell,23.18,40.95,224,35,2.8,2019-06-12
+PROD00442,HomeCraft Furniture Air 730,CAT0012,Home & Kitchen,Furniture,HomeCraft,205.08,342.08,1337,147,3.6,2023-05-02
+PROD00443,Levine Men's Ultra 133,CAT0007,Fashion,Men's Clothing,Levine,51.13,73.06,636,58,5.0,2021-10-12
+PROD00444,AdiSport Watches Classic 322,CAT0010,Fashion,Watches,AdiSport,112.24,145.06,1134,101,4.7,2020-03-22
+PROD00445,Levine Bags Air 341,CAT0011,Fashion,Bags,Levine,80.82,137.88,959,88,4.6,2022-04-26
+PROD00446,Prestige+ Cookware Max 802,CAT0013,Home & Kitchen,Cookware,Prestige+,93.42,156.96,217,109,4.3,2025-04-02
+PROD00447,LuxeBeauty Skincare Neo 760,CAT0017,Beauty & Personal Care,Skincare,LuxeBeauty,10.64,20.1,746,85,4.2,2023-09-18
+PROD00448,Prestige+ Cookware Pro 507,CAT0013,Home & Kitchen,Cookware,Prestige+,282.23,468.55,852,39,3.8,2024-09-09
+PROD00449,ProSport Camping Plus 225,CAT0023,Sports & Outdoors,Camping Gear,ProSport,190.75,288.17,838,112,2.5,2020-02-16
+PROD00450,OutdoorX Camping Max 778,CAT0023,Sports & Outdoors,Camping Gear,OutdoorX,78.17,110.94,987,91,4.4,2021-12-01
+PROD00451,NatureCare Fragrances Edge 121,CAT0020,Beauty & Personal Care,Fragrances,NatureCare,42.19,55.63,66,25,3.9,2020-07-18
+PROD00452,FunKidz Baby Classic 349,CAT0030,Toys & Baby Products,Baby Care,FunKidz,29.32,42.64,116,135,4.9,2019-04-15
+PROD00453,InkWell Notebooks Edge 310,CAT0028,Books & Stationery,Notebooks,InkWell,36.85,64.24,539,35,4.4,2025-04-09
+PROD00454,UrbanEdge Bags Neo 312,CAT0011,Fashion,Bags,UrbanEdge,25.56,48.3,977,122,4.8,2025-02-03
+PROD00455,BabyCare+ Toys Plus 436,CAT0029,Toys & Baby Products,Toys,BabyCare+,60.81,82.68,275,136,4.9,2021-11-17
+PROD00456,BabyCare+ Educational Edge 102,CAT0031,Toys & Baby Products,Educational Games,BabyCare+,48.76,64.35,306,41,3.6,2022-02-06
+PROD00457,Prestige+ Furniture Lite 233,CAT0012,Home & Kitchen,Furniture,Prestige+,62.55,105.72,383,63,4.1,2024-09-17
+PROD00458,Boatix Mobile Lite 212,CAT0001,Electronics,Mobile Phones,Boatix,127.08,159.42,909,78,4.2,2024-05-31
+PROD00459,AdiSport Watches Pro 234,CAT0010,Fashion,Watches,AdiSport,97.44,149.53,1412,100,2.7,2024-09-10
+PROD00460,FarmFresh Beverages Classic 908,CAT0033,Grocery,Beverages,FarmFresh,22.98,38.18,461,139,4.5,2025-07-10
+PROD00461,TrekGear Cycling Edge 431,CAT0022,Sports & Outdoors,Cycling,TrekGear,66.41,87.65,1452,125,4.8,2025-04-21
+PROD00462,GlowUp Skincare Lite 371,CAT0017,Beauty & Personal Care,Skincare,GlowUp,9.22,16.14,1397,88,4.9,2025-03-31
+PROD00463,Sonyx Laptops Lite 859,CAT0002,Electronics,Laptops,Sonyx,172.8,326.23,429,87,3.5,2022-03-10
+PROD00464,OutdoorX Sportswear Neo 216,CAT0024,Sports & Outdoors,Sportswear,OutdoorX,44.47,62.63,57,125,4.3,2021-02-06
+PROD00465,GlowUp Haircare Air 559,CAT0018,Beauty & Personal Care,Haircare,GlowUp,32.5,54.04,1431,72,3.4,2025-02-13
+PROD00466,ProSport Cycling Neo 707,CAT0022,Sports & Outdoors,Cycling,ProSport,161.2,203.25,277,133,3.4,2021-06-10
+PROD00467,Samong Headphones Air 615,CAT0003,Electronics,Headphones,Samong,516.49,877.19,922,59,4.1,2024-09-05
+PROD00468,InkWell Fiction Edge 144,CAT0025,Books & Stationery,Fiction,InkWell,19.38,34.47,523,91,3.1,2024-03-23
+PROD00469,CycloTech Camping Ultra 569,CAT0023,Sports & Outdoors,Camping Gear,CycloTech,170.62,282.79,1167,58,3.8,2023-09-08
+PROD00470,GlowUp Makeup Pro 590,CAT0019,Beauty & Personal Care,Makeup,GlowUp,49.04,67.43,445,89,4.6,2021-02-12
+PROD00471,IdealHome Home Prime 802,CAT0014,Home & Kitchen,Home Decor,IdealHome,196.57,268.92,250,28,2.9,2021-06-16
+PROD00472,GlowUp Skincare Air 829,CAT0017,Beauty & Personal Care,Skincare,GlowUp,11.89,19.74,1426,86,3.6,2019-11-25
+PROD00473,PlaySafe Toys Max 182,CAT0029,Toys & Baby Products,Toys,PlaySafe,57.23,74.46,1153,56,3.1,2022-11-30
+PROD00474,ProSport Camping Edge 251,CAT0023,Sports & Outdoors,Camping Gear,ProSport,77.51,141.19,1215,83,3.2,2022-05-23
+PROD00475,FunKidz Educational Lite 381,CAT0031,Toys & Baby Products,Educational Games,FunKidz,7.68,12.76,1416,57,4.4,2021-01-30
+PROD00476,DailyNeeds Organic Prime 711,CAT0035,Grocery,Organic Foods,DailyNeeds,17.85,26.27,898,95,4.5,2021-08-19
+PROD00477,DermaPlus Skincare Ultra 564,CAT0017,Beauty & Personal Care,Skincare,DermaPlus,20.9,33.95,1197,134,4.9,2019-01-31
+PROD00478,OrganicHarvest Beverages Max 912,CAT0033,Grocery,Beverages,OrganicHarvest,23.93,43.96,1043,80,2.7,2024-07-26
+PROD00479,FitMax Cycling Neo 838,CAT0022,Sports & Outdoors,Cycling,FitMax,206.62,339.9,824,134,4.1,2025-04-27
+PROD00480,NatureCare Haircare Prime 562,CAT0018,Beauty & Personal Care,Haircare,NatureCare,11.57,20.98,215,35,2.7,2019-11-28
+PROD00481,LGtech Smart Prime 447,CAT0005,Electronics,Smart Watches,LGtech,272.67,343.66,689,96,4.9,2021-10-06
+PROD00482,StudyPro Office Prime 525,CAT0027,Books & Stationery,Office Supplies,StudyPro,32.68,41.8,1334,35,3.6,2023-04-14
+PROD00483,FitMax Fitness Classic 537,CAT0021,Sports & Outdoors,Fitness Equipment,FitMax,234.68,353.48,1382,96,4.5,2023-11-09
+PROD00484,DailyNeeds Snacks Ultra 483,CAT0032,Grocery,Snacks,DailyNeeds,15.91,25.35,920,93,3.1,2024-02-20
+PROD00485,TrekGear Fitness Air 168,CAT0021,Sports & Outdoors,Fitness Equipment,TrekGear,60.51,78.86,802,40,4.9,2025-03-25
+PROD00486,PagePress Notebooks Max 195,CAT0028,Books & Stationery,Notebooks,PagePress,5.84,9.16,102,74,3.9,2022-05-06
+PROD00487,IdealHome Storage Max 862,CAT0015,Home & Kitchen,Storage,IdealHome,146.84,201.59,617,36,3.8,2020-05-10
+PROD00488,AdiSport Watches Classic 931,CAT0010,Fashion,Watches,AdiSport,73.33,113.28,915,125,3.8,2021-07-14
+PROD00489,InkWell Non-Fiction Neo 161,CAT0026,Books & Stationery,Non-Fiction,InkWell,21.86,31.37,676,48,3.8,2024-04-29
+PROD00490,DailyNeeds Packaged Max 520,CAT0034,Grocery,Packaged Foods,DailyNeeds,12.84,24.24,1436,37,2.9,2020-07-15
+PROD00491,Prestige+ Home Prime 988,CAT0014,Home & Kitchen,Home Decor,Prestige+,298.17,504.5,20,34,2.8,2022-01-14
+PROD00492,FunKidz Baby Ultra 714,CAT0030,Toys & Baby Products,Baby Care,FunKidz,43.26,70.0,660,116,3.6,2020-05-26
+PROD00493,Prestige+ Home Classic 206,CAT0014,Home & Kitchen,Home Decor,Prestige+,267.38,422.47,646,89,3.2,2019-08-17
+PROD00494,Puma+ Women's Neo 317,CAT0008,Fashion,Women's Clothing,Puma+,30.29,56.67,999,143,2.5,2024-06-27
+PROD00495,NatureCare Skincare Air 329,CAT0017,Beauty & Personal Care,Skincare,NatureCare,57.13,89.85,1260,72,3.5,2024-11-17
+PROD00496,Samong Televisions Classic 965,CAT0006,Electronics,Televisions,Samong,629.63,864.95,1213,122,2.8,2023-01-25
+PROD00497,DailyNeeds Beverages Max 880,CAT0033,Grocery,Beverages,DailyNeeds,13.53,20.29,249,102,4.1,2021-05-21
+PROD00498,OfficeMate Non-Fiction Edge 331,CAT0026,Books & Stationery,Non-Fiction,OfficeMate,30.4,41.3,233,44,4.3,2024-12-06
+PROD00499,FashionNova2 Bags Prime 965,CAT0011,Fashion,Bags,FashionNova2,44.71,81.54,338,49,3.8,2024-03-07
+PROD00500,Sonyx Smart Edge 773,CAT0005,Electronics,Smart Watches,Sonyx,781.07,1447.67,1372,120,4.1,2024-03-03
+PROD00501,Boatix Laptops Pro 284,CAT0002,Electronics,Laptops,Boatix,682.76,1238.54,893,27,4.9,2019-05-17
+PROD00502,Boatix Laptops Ultra 447,CAT0002,Electronics,Laptops,Boatix,157.09,270.35,1325,41,4.5,2021-10-28
+PROD00503,OfficeMate Non-Fiction Pro 285,CAT0026,Books & Stationery,Non-Fiction,OfficeMate,3.5,6.31,1184,129,4.2,2023-12-30
+PROD00504,KitchenPro Furniture Edge 773,CAT0012,Home & Kitchen,Furniture,KitchenPro,179.5,266.31,301,29,4.2,2019-08-21
+PROD00505,OutdoorX Cycling Max 245,CAT0022,Sports & Outdoors,Cycling,OutdoorX,182.12,315.81,1383,148,3.0,2021-03-08
+PROD00506,FarmFresh Packaged Max 864,CAT0034,Grocery,Packaged Foods,FarmFresh,11.53,19.64,1116,122,3.8,2021-10-15
+PROD00507,InkWell Non-Fiction Prime 529,CAT0026,Books & Stationery,Non-Fiction,InkWell,37.97,58.96,656,149,3.7,2022-01-21
+PROD00508,OutdoorX Fitness Classic 261,CAT0021,Sports & Outdoors,Fitness Equipment,OutdoorX,24.43,40.17,1293,110,3.8,2021-10-11
+PROD00509,Zarello Women's Ultra 838,CAT0008,Fashion,Women's Clothing,Zarello,100.69,155.94,421,86,5.0,2023-08-30
+PROD00510,Zarello Bags Edge 710,CAT0011,Fashion,Bags,Zarello,71.27,112.17,751,125,3.6,2023-05-19
+PROD00511,FarmFresh Snacks Pro 259,CAT0032,Grocery,Snacks,FarmFresh,13.78,25.65,1467,95,3.0,2024-10-27
+PROD00512,NatureCare Makeup Edge 150,CAT0019,Beauty & Personal Care,Makeup,NatureCare,55.35,71.28,229,81,4.3,2022-11-16
+PROD00513,Samong Headphones Ultra 553,CAT0003,Electronics,Headphones,Samong,638.3,1074.14,790,77,2.8,2021-09-02
+PROD00514,OutdoorX Cycling Air 721,CAT0022,Sports & Outdoors,Cycling,OutdoorX,57.57,88.09,1077,53,2.6,2021-06-08
+PROD00515,PlaySafe Toys Prime 379,CAT0029,Toys & Baby Products,Toys,PlaySafe,8.49,12.08,875,36,4.9,2024-03-05
+PROD00516,StyleHub Bags Neo 216,CAT0011,Fashion,Bags,StyleHub,14.2,23.73,1402,53,4.4,2021-05-21
+PROD00517,ProSport Fitness Prime 213,CAT0021,Sports & Outdoors,Fitness Equipment,ProSport,159.42,297.77,943,58,2.9,2023-11-08
+PROD00518,LuxeBeauty Haircare Edge 598,CAT0018,Beauty & Personal Care,Haircare,LuxeBeauty,58.13,102.15,93,90,2.7,2021-06-08
+PROD00519,LivWell Cookware Ultra 146,CAT0013,Home & Kitchen,Cookware,LivWell,202.64,280.52,1376,53,4.5,2022-02-25
+PROD00520,BabyCare+ Toys Prime 713,CAT0029,Toys & Baby Products,Toys,BabyCare+,45.09,76.18,804,100,4.3,2023-07-18
+PROD00521,HomeCraft Home Pro 309,CAT0014,Home & Kitchen,Home Decor,HomeCraft,254.86,360.05,325,126,4.7,2019-12-25
+PROD00522,Prestige+ Home Plus 885,CAT0014,Home & Kitchen,Home Decor,Prestige+,291.61,491.88,529,29,3.6,2020-04-25
+PROD00523,InkWell Fiction Ultra 396,CAT0025,Books & Stationery,Fiction,InkWell,13.55,19.43,921,72,4.0,2023-03-13
+PROD00524,Zarello Men's Max 107,CAT0007,Fashion,Men's Clothing,Zarello,72.62,117.31,467,33,2.9,2019-05-29
+PROD00525,OrganicHarvest Snacks Prime 279,CAT0032,Grocery,Snacks,OrganicHarvest,22.99,41.8,1225,65,3.3,2024-12-28
+PROD00526,Applyn Smart Prime 645,CAT0005,Electronics,Smart Watches,Applyn,86.86,123.95,461,31,3.1,2020-04-21
+PROD00527,InkWell Non-Fiction Neo 672,CAT0026,Books & Stationery,Non-Fiction,InkWell,22.24,39.63,355,62,3.0,2025-01-11
+PROD00528,Prestige+ Home Max 506,CAT0014,Home & Kitchen,Home Decor,Prestige+,25.36,43.66,175,121,3.5,2021-01-08
+PROD00529,PagePress Non-Fiction Prime 119,CAT0026,Books & Stationery,Non-Fiction,PagePress,23.57,31.58,1164,77,2.7,2020-12-13
+PROD00530,IdealHome Furniture Max 982,CAT0012,Home & Kitchen,Furniture,IdealHome,39.34,56.02,627,111,4.7,2021-12-16
+PROD00531,DailyNeeds Organic Edge 539,CAT0035,Grocery,Organic Foods,DailyNeeds,7.78,11.35,809,84,3.9,2021-02-07
+PROD00532,OnePlusX Mobile Prime 396,CAT0001,Electronics,Mobile Phones,OnePlusX,656.27,939.41,1293,55,3.1,2019-01-24
+PROD00533,GlowUp Skincare Prime 121,CAT0017,Beauty & Personal Care,Skincare,GlowUp,33.77,58.73,1186,62,3.8,2021-04-28
+PROD00534,DailyNeeds Organic Lite 920,CAT0035,Grocery,Organic Foods,DailyNeeds,17.57,31.14,799,45,4.2,2019-02-25
+PROD00535,Xiaomia Headphones Classic 190,CAT0003,Electronics,Headphones,Xiaomia,507.53,897.83,339,72,3.1,2024-03-30
+PROD00536,OrganicHarvest Organic Max 349,CAT0035,Grocery,Organic Foods,OrganicHarvest,4.05,6.21,1030,35,4.4,2020-05-01
+PROD00537,IdealHome Lighting Edge 510,CAT0016,Home & Kitchen,Lighting,IdealHome,184.88,286.33,1105,126,4.8,2023-03-08
+PROD00538,FunKidz Educational Prime 991,CAT0031,Toys & Baby Products,Educational Games,FunKidz,19.54,31.67,1016,144,4.3,2020-08-19
+PROD00539,ProSport Cycling Classic 326,CAT0022,Sports & Outdoors,Cycling,ProSport,37.4,70.16,986,124,2.9,2022-03-31
+PROD00540,Prestige+ Storage Lite 178,CAT0015,Home & Kitchen,Storage,Prestige+,94.93,178.83,1443,98,3.2,2023-04-21
+PROD00541,Samong Headphones Neo 622,CAT0003,Electronics,Headphones,Samong,134.63,254.86,1129,20,3.7,2023-12-12
+PROD00542,KitchenPro Furniture Classic 459,CAT0012,Home & Kitchen,Furniture,KitchenPro,264.3,382.52,1088,96,3.3,2020-08-14
+PROD00543,InkWell Office Plus 205,CAT0027,Books & Stationery,Office Supplies,InkWell,6.65,9.89,316,142,4.5,2023-06-05
+PROD00544,NatureBite Packaged Ultra 302,CAT0034,Grocery,Packaged Foods,NatureBite,20.3,31.67,1316,148,3.1,2021-12-13
+PROD00545,Applyn Cameras Edge 256,CAT0004,Electronics,Cameras,Applyn,751.81,969.05,1129,20,3.5,2020-03-07
+PROD00546,FitMax Sportswear Lite 891,CAT0024,Sports & Outdoors,Sportswear,FitMax,97.2,139.75,788,101,2.9,2022-10-09
+PROD00547,Xiaomia Laptops Air 872,CAT0002,Electronics,Laptops,Xiaomia,114.06,211.63,144,38,4.5,2024-02-05
+PROD00548,Puma+ Watches Edge 559,CAT0010,Fashion,Watches,Puma+,78.33,101.87,680,42,4.3,2020-12-29
+PROD00549,LivWell Home Edge 430,CAT0014,Home & Kitchen,Home Decor,LivWell,288.02,441.4,1253,115,3.7,2024-11-22
+PROD00550,Prestige+ Cookware Lite 550,CAT0013,Home & Kitchen,Cookware,Prestige+,167.66,262.2,1354,48,4.8,2025-04-05
+PROD00551,Samong Cameras Air 552,CAT0004,Electronics,Cameras,Samong,616.91,1115.53,1159,22,3.2,2021-05-03
+PROD00552,ProSport Cycling Ultra 705,CAT0022,Sports & Outdoors,Cycling,ProSport,109.86,158.17,714,23,4.8,2021-05-19
+PROD00553,UrbanEdge Men's Classic 619,CAT0007,Fashion,Men's Clothing,UrbanEdge,112.65,188.35,76,67,4.1,2019-04-16
+PROD00554,GlowUp Haircare Ultra 572,CAT0018,Beauty & Personal Care,Haircare,GlowUp,57.12,82.91,141,144,2.5,2025-07-27
+PROD00555,StudyPro Notebooks Pro 158,CAT0028,Books & Stationery,Notebooks,StudyPro,32.25,42.26,1291,103,3.4,2021-10-09
+PROD00556,ProSport Cycling Ultra 178,CAT0022,Sports & Outdoors,Cycling,ProSport,242.55,412.18,605,64,4.2,2022-07-18
+PROD00557,FunKidz Educational Edge 708,CAT0031,Toys & Baby Products,Educational Games,FunKidz,68.64,120.21,1336,102,3.0,2019-02-02
+PROD00558,DermaPlus Skincare Prime 573,CAT0017,Beauty & Personal Care,Skincare,DermaPlus,21.68,40.44,704,121,2.9,2022-08-08
+PROD00559,PagePress Fiction Air 929,CAT0025,Books & Stationery,Fiction,PagePress,4.44,7.76,56,139,3.4,2023-02-15
+PROD00560,BabyCare+ Toys Classic 719,CAT0029,Toys & Baby Products,Toys,BabyCare+,56.57,71.49,1423,28,4.8,2024-01-17
+PROD00561,OutdoorX Sportswear Neo 254,CAT0024,Sports & Outdoors,Sportswear,OutdoorX,216.1,373.04,195,147,4.5,2022-10-11
+PROD00562,FunKidz Educational Air 205,CAT0031,Toys & Baby Products,Educational Games,FunKidz,50.7,89.21,1034,83,2.5,2025-06-11
+PROD00563,FashionNova2 Men's Classic 831,CAT0007,Fashion,Men's Clothing,FashionNova2,50.9,94.39,1302,28,3.7,2024-12-31
+PROD00564,PagePress Non-Fiction Neo 761,CAT0026,Books & Stationery,Non-Fiction,PagePress,22.25,29.71,1206,102,3.5,2022-07-30
+PROD00565,TrekGear Sportswear Pro 353,CAT0024,Sports & Outdoors,Sportswear,TrekGear,243.51,450.19,736,132,3.9,2022-04-30
+PROD00566,OrganicHarvest Snacks Air 636,CAT0032,Grocery,Snacks,OrganicHarvest,9.13,11.92,955,92,4.8,2022-10-06
+PROD00567,Applyn Smart Classic 481,CAT0005,Electronics,Smart Watches,Applyn,317.54,594.87,1077,39,3.3,2022-03-04
+PROD00568,DailyNeeds Beverages Prime 518,CAT0033,Grocery,Beverages,DailyNeeds,6.4,10.15,1079,95,4.5,2021-05-23
+PROD00569,OfficeMate Notebooks Edge 153,CAT0028,Books & Stationery,Notebooks,OfficeMate,24.61,31.88,568,81,2.9,2021-04-18
+PROD00570,FashionNova2 Footwear Classic 167,CAT0009,Fashion,Footwear,FashionNova2,70.06,121.1,697,54,2.8,2024-01-30
+PROD00571,ProSport Camping Max 671,CAT0023,Sports & Outdoors,Camping Gear,ProSport,223.89,375.28,411,137,4.6,2019-04-17
+PROD00572,OutdoorX Cycling Ultra 358,CAT0022,Sports & Outdoors,Cycling,OutdoorX,26.82,44.18,1332,97,3.2,2024-02-23
+PROD00573,CycloTech Cycling Lite 441,CAT0022,Sports & Outdoors,Cycling,CycloTech,95.53,147.73,355,36,5.0,2023-05-16
+PROD00574,FunKidz Toys Edge 779,CAT0029,Toys & Baby Products,Toys,FunKidz,26.66,35.28,1169,20,2.9,2021-05-20
+PROD00575,TrekGear Cycling Classic 417,CAT0022,Sports & Outdoors,Cycling,TrekGear,73.62,95.98,1192,102,3.0,2021-06-05
+PROD00576,IdealHome Furniture Lite 709,CAT0012,Home & Kitchen,Furniture,IdealHome,134.79,236.97,794,88,4.3,2025-04-10
+PROD00577,HomeCraft Storage Ultra 672,CAT0015,Home & Kitchen,Storage,HomeCraft,292.42,469.38,1069,37,3.9,2024-05-06
+PROD00578,OnePlusX Cameras Classic 932,CAT0004,Electronics,Cameras,OnePlusX,381.8,584.97,831,119,3.8,2023-08-18
+PROD00579,Applyn Cameras Neo 195,CAT0004,Electronics,Cameras,Applyn,669.09,1240.57,394,93,3.5,2023-05-11
+PROD00580,OrganicHarvest Snacks Neo 470,CAT0032,Grocery,Snacks,OrganicHarvest,20.54,26.73,858,133,3.6,2020-10-01
+PROD00581,FunKidz Educational Classic 416,CAT0031,Toys & Baby Products,Educational Games,FunKidz,79.38,104.1,256,84,4.0,2019-02-07
+PROD00582,KitchenPro Cookware Plus 449,CAT0013,Home & Kitchen,Cookware,KitchenPro,266.09,428.57,267,88,4.9,2021-06-20
+PROD00583,Xiaomia Cameras Plus 331,CAT0004,Electronics,Cameras,Xiaomia,129.6,172.87,1389,80,4.7,2021-04-23
+PROD00584,KitchenPro Lighting Lite 179,CAT0016,Home & Kitchen,Lighting,KitchenPro,218.46,310.56,1171,43,5.0,2021-01-07
+PROD00585,OfficeMate Office Max 619,CAT0027,Books & Stationery,Office Supplies,OfficeMate,29.01,40.31,697,50,3.0,2024-09-10
+PROD00586,FunKidz Educational Classic 997,CAT0031,Toys & Baby Products,Educational Games,FunKidz,83.37,156.27,111,55,4.6,2023-07-13
+PROD00587,BabyCare+ Educational Edge 485,CAT0031,Toys & Baby Products,Educational Games,BabyCare+,84.95,108.52,643,99,3.9,2019-05-27
+PROD00588,Applyn Mobile Lite 285,CAT0001,Electronics,Mobile Phones,Applyn,788.7,1232.02,1189,104,3.7,2020-04-03
+PROD00589,DermaPlus Fragrances Lite 838,CAT0020,Beauty & Personal Care,Fragrances,DermaPlus,39.83,63.44,1011,38,4.2,2024-07-21
+PROD00590,PureSkin Skincare Pro 520,CAT0017,Beauty & Personal Care,Skincare,PureSkin,36.89,54.47,390,147,2.7,2020-11-18
+PROD00591,JBLPro Laptops Plus 554,CAT0002,Electronics,Laptops,JBLPro,657.69,850.16,606,31,3.9,2024-03-24
+PROD00592,Boatix Smart Air 339,CAT0005,Electronics,Smart Watches,Boatix,428.32,634.46,256,40,3.3,2019-02-21
+PROD00593,LGtech Smart Ultra 928,CAT0005,Electronics,Smart Watches,LGtech,457.55,695.59,1074,23,3.8,2024-06-09
+PROD00594,IdealHome Home Plus 476,CAT0014,Home & Kitchen,Home Decor,IdealHome,215.35,342.04,466,48,2.5,2022-01-28
+PROD00595,OrganicHarvest Snacks Air 887,CAT0032,Grocery,Snacks,OrganicHarvest,14.82,20.99,276,45,3.6,2025-05-30
+PROD00596,LittleStars Educational Prime 614,CAT0031,Toys & Baby Products,Educational Games,LittleStars,26.85,39.97,890,63,3.4,2019-11-29
+PROD00597,LivWell Furniture Prime 265,CAT0012,Home & Kitchen,Furniture,LivWell,252.41,411.09,864,71,4.2,2024-10-22
+PROD00598,NatureBite Organic Edge 241,CAT0035,Grocery,Organic Foods,NatureBite,7.74,14.09,247,88,4.9,2020-04-14
+PROD00599,Boatix Cameras Pro 756,CAT0004,Electronics,Cameras,Boatix,570.04,862.56,131,140,2.8,2023-02-14
+PROD00600,StudyPro Notebooks Classic 667,CAT0028,Books & Stationery,Notebooks,StudyPro,9.88,18.53,1241,106,3.7,2021-03-09
