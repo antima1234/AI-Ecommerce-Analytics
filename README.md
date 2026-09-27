@@ -200,7 +200,14 @@ This project uses synthetically generated data for educational and
 portfolio purposes. Released under the MIT License — see `LICENSE` for
 details.
 
-## 14. Author
+## 14. Author & Contact 
+
+Name:      Antima Pandey
+Email:     antimapandey600@gmail.com
+Github:    https://github.com/antima1234
+Linkdin:   https://www.linkedin.com/in/antima-pandey-4057b53ba/
+Portfolio: https://www.canva.com/design/DAHSV6z5T-s/PkTHPNwYl9euR6P1wi5Zaw/edit
+
 
 Built as an end-to-end data analytics portfolio project demonstrating the
 complete Excel → Python → SQL → Power BI workflow.
